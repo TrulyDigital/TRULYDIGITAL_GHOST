@@ -45,17 +45,28 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
  |   |   |
  |   |   |
  |   |   |   # Menú item
- |   |   ├── 📂 Nombre: Ejemplode Arquitectura Hexagonal      
+ |   |   ├── 📂 Nombre: Arquitectura Hexagonal en NestJS.   
  |   |   |       URI: /arquitectura-hexagonal-ejemplo/
  |   |   |
  |   |   |
  |   |   |   # Menú item
  |   |   ├── 📂 Nombre: Prisma ORM en NestJS.    
  |   |   |       URI: /prisma/
+ |   |   |
+ |   |   |
+ |   |   |   # Menú item
+ |   |   ├── 📂 Nombre: NestJS y PostgreSQL.    
+ |   |   |       URI: /postgresql/
+ |   |   |
+ |   |   |
+ |   |   |   # Menú item
+ |   |   ├── 📂 Nombre: Pruebas unitarias con Jest y NestJS.    
+ |   |   |       URI: /jest/
+ 
 
 ```
 
-## NestJS General
+## NestJS - Que es NestJS ?
 
 Realizar un tutorial con la información general del framework, como instalar, iniciar una aplicación, explicar conceptos básicos, etc., e incluir las palabras claves a continuación.
 
@@ -70,7 +81,68 @@ Realizar un tutorial con la información general del framework, como instalar, i
 
 |Total de búsquedas promedio|
 |:-------------------------:|
-|8.375|
+|50250|
+
+## NestJS - Arquitectura Hexagonal en NestJS.
+
+Un ejemplo de la implementación de la arquitectura hexagonal en el framework NestJS.
+
+El artículo debe detallar los conceptos básicos de la arquitectura hexagonal hasta su implementación con el framework NestJS.
+
+|keword|searchs|url post|
+|:----:|:-----:|:------:|
+|arquitectura hexagonal ejemplo|De 100 a 1 K|/nest/arquitectura-hexagonal-ejemplo|
+|ejemplo arquitectura hexagonal|De 10 a 100|/nest/arquitectura-hexagonal-ejemplo|
+
+|Total de búsquedas promedio|
+|:-------------------------:|
+|550|
+
+## NestJS - Prisma ORM en NestJS.
+
+Tutorial con la explicación del funcionamiento del ORM **Prisma**, para el ejemplo, utilizar cualquier motor de base de datos.
+
+|keword|searchs|url post|
+|:----:|:-----:|:------:|
+|nest js prisma|De 100 a 1k|/nestjs/prisma|
+
+|Total de búsquedas promedio|
+|:-------------------------:|
+|500|
+
+## NestJS - NestJS y PostgreSQL.
+
+Tutorial de conexión entre NestJS y PostgreSQL con **TypeORM** y explicando los conceptos de **Entidades**. Incluir las palabras clave descritas a continuación.
+
+⚠️ Analizar si se explica o no los conceptos de **Docker** en esta publicación.
+
+|keword|searchs|url post|
+|:----:|:-----:|:------:|
+|nestjs postgresql|De 10 a 100|/postgresql/|
+
+|Total de búsquedas promedio|
+|:-------------------------:|
+|50|
+
+## NestJS - Pruebas unitarias con Jest y NestJS.
+
+Tutorial de pruebas unitarias y pruebas e2e en NestJS con **jest**
+
+|keword|searchs|url post|
+|:----:|:-----:|:------:|
+|jest nestjs|De 10 a 100|/jest/|
+|nestjs jest|De 10 a 100|/jest/|
+
+|Total de búsquedas promedio|
+|:-------------------------:|
+|100|
+
+
+
+
+
+
+
 
 ## Arquitectura Hexagonal
 
@@ -86,40 +158,8 @@ Descripción de toda la teoría relacionada a la arquitectura hexagonal.
 |arquitectura hexagonal y ddd|De 10 a 100|/arquitectura-hexagonal/|
 |ddd arquitectura hexagonal|De 10 a 100|/arquitectura-hexagonal/|
 
-## NestJS - Arquitectura Hexagonal
 
-Un ejemplo de la implementación de la arquitectura hexagonal en el framework NestJS.
 
-El artículo debe detallar los conceptos básicos de la arquitectura hexagonal hasta su implementación con el framework NestJS.
 
-|keword|searchs|url post|
-|:----:|:-----:|:------:|
-|arquitectura hexagonal ejemplo|De 100 a 1 K|/nest/arquitectura-hexagonal-ejemplo|
-|ejemplo arquitectura hexagonal|De 10 a 100|/nest/arquitectura-hexagonal-ejemplo|
 
-## NestJS Prisma
 
-Tutorial con la explicación del funcionamiento del ORM **Prisma**, para el ejemplo, utilizar cualquier motor de base de datos.
-
-|keword|searchs|url post|
-|:----:|:-----:|:------:|
-|nest js prisma|De 100 a 1k|/nestjs/prisma|
-
-## NestJS PostgreSQL
-
-Tutorial de conexión entre NestJS y PostgreSQL con **TypeORM** y explicando los conceptos de **Entidades**. Incluir las palabras clave descritas a continuación.
-
-⚠️ Analizar si se explica o no los conceptos de **Docker** en esta publicación.
-
-|keword|searchs|url post|
-|:----:|:-----:|:------:|
-|nestjs postgresql|De 10 a 100|/nestjs/postgresql|
-
-## 3. NestJS Jest
-
-Tutorial de pruebas unitarias y pruebas e2e en NestJS con **jest**
-
-|keword|searchs|url post|
-|:----:|:-----:|:------:|
-|jest nestjs|De 10 a 100|/nestjs/jest|
-|nestjs jest|De 10 a 100|/nestjs/jest|
