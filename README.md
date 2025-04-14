@@ -36,17 +36,21 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 📂 https://trulydigital.tech
  |
  |
- |   menú principal - NestJS
- ├── 📂 NestJS
- |   |
- |   |   menú item - Que es NestJS ?                   
- │   ├── 📂 /nestjs/
+ ├── 📂 Tipo: Menú principal desplegable
+ |   |   Nombre: NestJS
+ |   |                
+ │   ├── 📂 Tipo: Menú item (esto ya es un artículo)
+ |   |   |   Nombre: Que es NestJS?
+ |   |   |   URI: /nestjs/
  |   |   |
- |   |   |   menú item - Ejemplo de Arquitectura Hexagonal.
- |   |   ├── 📂 /arquitectura-hexagonal-ejemplo/
+ |   |   ├── 📂 Tipo: Menú item (esto ya es un artículo)
+ |   |   |       Nombre: Ejemplode Arquitectura Hexagonal
+ |   |   |       URI: /arquitectura-hexagonal-ejemplo/
  |   |   |
- |   |   |   **menú item** - Prisma ORM en NestJS.
- |   |   ├── 📂 /prisma/
+ |   |   |   # menú item - Prisma ORM en NestJS.
+ |   |   ├── 📂 Tipo: Menú item (esto ya es un artículo)
+ |   |   |       Nombre: Prisma ORM en NestJS.
+ |   |   |       URI: /prisma/
 
 ```
 
