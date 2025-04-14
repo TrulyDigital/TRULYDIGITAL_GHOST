@@ -70,7 +70,19 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
  |   |   |
  |   |   |   # Menú item
  |   |   ├── 📂 Nombre: Microservicios en NestJS.    
- |   |   |       URI: /jest/
+ |   |   |       URI: /microservicios-ejemplo/
+ |
+ |
+ |   # Menú principal desplegable
+ ├── 📂 Nombre: SpringBoot
+ |
+ |
+ |   # Menú principal desplegable
+ ├── 📂 Nombre: Arquitectura de Software
+ |
+ |
+ |   # Menú principal desplegable
+ ├── 📂 Nombre: Docker  
  
 
 ```
@@ -78,11 +90,12 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 ## NestJS - Primeros pasos en NestJS.
 
 Realizar un tutorial con la información general del framework:
+- Pre-requisitos para instalar NestJS
 - Como instalar NestJS y sus herramientas de consola
 - Iniciar una aplicación/proyecto NestJS
 - Explicar conceptos básicos (controladores, servicios, etc.)
 
-Incluir las siguientes palabras.
+Incluir las siguientes palabras clave:
 
 |keword|searchs|url post|
 |:----:|:-----:|:------:|
@@ -114,11 +127,17 @@ Esta lista de palabras clave, son opcionales a incluir y solo utilizarlas para e
 |ternario typescript|De 10 a 100|/nestjs/|
 |tipado typescript|De 10 a 100|/nestjs/|
 
+|Total de búsquedas promedio|
+|:-------------------------:|
+|51900|
+
 ## NestJS - Arquitectura Hexagonal en NestJS.
 
 Un ejemplo de la implementación de la arquitectura hexagonal en el framework NestJS.
 
 El artículo debe detallar los conceptos básicos de la arquitectura hexagonal hasta su implementación con el framework NestJS.
+
+Incluir las siguientes palabras clave:
 
 |keword|searchs|url post|
 |:----:|:-----:|:------:|
@@ -145,7 +164,9 @@ Tutorial con la explicación del funcionamiento del ORM **Prisma**, para el ejem
 
 Tutorial de conexión entre NestJS y PostgreSQL con **TypeORM** y explicando los conceptos de **Entidades**. Incluir las palabras clave descritas a continuación.
 
-⚠️ Analizar si se explica o no los conceptos de **Docker** en esta publicación.
+📢 De acuerdo al análisis de palabras clave entre NestJS, PostgreSQL y Docker, puedo enfocar o incluir en la construcción del artículo como implementar la base de datos con Docker sin interferir en los artículos de la sección **Docker** (no hay canibalización).
+
+Incluir las siguientes palabras clave:
 
 |keword|searchs|url post|
 |:----:|:-----:|:------:|
@@ -156,6 +177,25 @@ Tutorial de conexión entre NestJS y PostgreSQL con **TypeORM** y explicando los
 |Total de búsquedas promedio|
 |:-------------------------:|
 |150|
+
+Las siguientes palabras clave son específicamente sobre **PostgreSQL**, tenerlas en cuenta para la escritura del artículo ya que pueden apalancar o beneficiar el tema principal.
+
+|keword|searchs|url post|
+|:----:|:-----:|:------:|
+|postgresql|De 10 k a 100 k|/postgresql/|
+|pg admin|De 1 K a 10 k|/postgresql/|
+|dockerfile postgresql|De 1 K a 10 k|/postgresql/|
+|pg admin 4|De 1 K a 10 k|/postgresql/|
+|postgresql server|De 100 a 1 K|/postgresql/|
+|postgresql db|De 100 a 1 K|/postgresql/|
+|insert postgresql|De 100 a 1 K|/postgresql/|
+|database postgresql|De 100 a 1 K|/postgresql/|
+|pg admin3|De 100 a 1 K|/postgresql/|
+|php pg admin|De 100 a 1 K|/postgresql/|
+
+|Total de búsquedas promedio|
+|:-------------------------:|
+|68000|
 
 ## NestJS - Pruebas unitarias con Jest y NestJS.
 
@@ -173,12 +213,14 @@ Tutorial de pruebas unitarias y pruebas e2e en NestJS con **jest**
 
 ## NestJS - Microservicios en NestJS
 
-Tutorial y guía completa
+Tutorial y guía completa sobre la construcción de microservicios en NestJS, para los conceptos del **patrón SAGA** en coreografía, utilizar **rabbitmq** para el paso de mensajes/eventos.
+
+Incluir las siguientes palabras clave:
 
 |keword|searchs|url post|
 |:----:|:-----:|:------:|
-|rabbitmq|De 1 K a 10 k|/microservicios-ejemplo/|
 |microservicios ejemplo|De 100 a 1 K|/microservicios-ejemplo/|
+|rabbitmq|De 1 K a 10 k|/microservicios-ejemplo/|
 |broker rabbitmq|De 100 a 1 K|/microservicios-ejemplo/|
 |microservices nest|De 10 a 100|/microservicios-ejemplo/|
 |microservicios nodejs|De 10 a 100|/microservicios-ejemplo/|
@@ -194,6 +236,10 @@ Tutorial y guía completa
 |microservicios node|De 10 a 100|/microservicios-ejemplo/|
 |microservicios node js express|De 10 a 100|/microservicios-ejemplo/|
 |nodejs microservicios|De 10 a 100|/microservicios-ejemplo/|
+
+|Total de búsquedas promedio|
+|:-------------------------:|
+|6650|
 
 
 
