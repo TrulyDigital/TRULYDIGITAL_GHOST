@@ -4,6 +4,10 @@
 
 Realizar el diseño y descripción de cada uno de los items del menú de navegación para el blog `https://trulydigital.tech`.
 
+**Objetivos Específicos**
+
+- Convertir cada item del menú de navegación en una entrada o **post** del blog, el artículo debe ser muy bien estructurado, completo, detallado y lo mas educativo posible, sin escatimar en la longitud del artículo.
+
 
 
 Palabras clave para el tema `NestJS` en los países Colombia, Argentina, México y España.
