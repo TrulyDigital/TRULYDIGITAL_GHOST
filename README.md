@@ -21,7 +21,11 @@ Las siguientes son las palabras claves **principales** con las que se iniciaron 
 - nestjs
 - arquitectura hexagonal
 - spring boot
+- docker
+- microservicios
 - typescript
+- rabbitmq
+- apache kafka
 
 Los países donde se analizan el promedio e intención de búsquedas de palabras claves son:
 
@@ -40,7 +44,7 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
  |   | 
  |   |
  |   |   # Menú item             
- │   ├── 📂 Nombre: Que es NestJS?
+ │   ├── 📂 Nombre: Primeros pasos en NestJS.
  |   |   |   URI: /nestjs/
  |   |   |
  |   |   |
@@ -62,26 +66,53 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
  |   |   |   # Menú item
  |   |   ├── 📂 Nombre: Pruebas unitarias con Jest y NestJS.    
  |   |   |       URI: /jest/
+ |   |   |
+ |   |   |
+ |   |   |   # Menú item
+ |   |   ├── 📂 Nombre: Microservicios en NestJS.    
+ |   |   |       URI: /jest/
  
 
 ```
 
-## NestJS - Que es NestJS ?
+## NestJS - Primeros pasos en NestJS.
 
-Realizar un tutorial con la información general del framework, como instalar, iniciar una aplicación, explicar conceptos básicos, etc., e incluir las palabras claves a continuación.
+Realizar un tutorial con la información general del framework:
+- Como instalar NestJS y sus herramientas de consola
+- Iniciar una aplicación/proyecto NestJS
+- Explicar conceptos básicos (controladores, servicios, etc.)
+
+Incluir las siguientes palabras.
 
 |keword|searchs|url post|
 |:----:|:-----:|:------:|
-|nestjs|De 10 k a 100 k|/nestjs|
-|api rest nestjs|De 10 a 100|/nestjs|
-|js nest|De 10 a 100|/nestjs|
-|nestjs api rest|De 10 a 100|/nestjs|
-|tutorial nestjs|De 10 a 100|/nestjs|
-|nestjs v9|De 10 a 100|/nestjs|
+|nestjs|De 10 k a 100 k|/nestjs/|
+|api rest nestjs|De 10 a 100|/nestjs/|
+|js nest|De 10 a 100|/nestjs/|
+|nestjs api rest|De 10 a 100|/nestjs/|
+|tutorial nestjs|De 10 a 100|/nestjs/|
+|nestjs v9|De 10 a 100|/nestjs/|
 
 |Total de búsquedas promedio|
 |:-------------------------:|
 |50250|
+
+Esta lista de palabras clave, son opcionales a incluir y solo utilizarlas para explicar conceptos específicos en caso de ser necesario.
+
+|keword|searchs|url post|
+|:----:|:-----:|:------:|
+|typescript|De 10 k a 100 k|/nestjs/|
+|node js ts|De 100 a 1 K|/nestjs/|
+|node ts|De 100 a 1 K|/nestjs/|
+|type script javascript|De 100 a 1 K|/nestjs/|
+|axiosresponse|De 10 a 100|/nestjs/|
+|comentario typescript|De 10 a 100|/nestjs/|
+|express ts|De 10 a 100|/nestjs/|
+|for en typescript|De 10 a 100|/nestjs/|
+|if ternario typescript|De 10 a 100|/nestjs/|
+|node express ts|De 10 a 100|/nestjs/|
+|ternario typescript|De 10 a 100|/nestjs/|
+|tipado typescript|De 10 a 100|/nestjs/|
 
 ## NestJS - Arquitectura Hexagonal en NestJS.
 
@@ -119,10 +150,12 @@ Tutorial de conexión entre NestJS y PostgreSQL con **TypeORM** y explicando los
 |keword|searchs|url post|
 |:----:|:-----:|:------:|
 |nestjs postgresql|De 10 a 100|/postgresql/|
+|typeorm express|De 10 a 100|/postgresql/|
+|typeorm nodejs express|De 10 a 100|/postgresql/|
 
 |Total de búsquedas promedio|
 |:-------------------------:|
-|50|
+|150|
 
 ## NestJS - Pruebas unitarias con Jest y NestJS.
 
@@ -132,10 +165,39 @@ Tutorial de pruebas unitarias y pruebas e2e en NestJS con **jest**
 |:----:|:-----:|:------:|
 |jest nestjs|De 10 a 100|/jest/|
 |nestjs jest|De 10 a 100|/jest/|
+|jest ts|De 10 a 100|/jest/|
 
 |Total de búsquedas promedio|
 |:-------------------------:|
 |100|
+
+## NestJS - Microservicios en NestJS
+
+Tutorial y guía completa
+
+|keword|searchs|url post|
+|:----:|:-----:|:------:|
+|rabbitmq|De 1 K a 10 k|/microservicios-ejemplo/|
+|microservicios ejemplo|De 100 a 1 K|/microservicios-ejemplo/|
+|broker rabbitmq|De 100 a 1 K|/microservicios-ejemplo/|
+|microservices nest|De 10 a 100|/microservicios-ejemplo/|
+|microservicios nodejs|De 10 a 100|/microservicios-ejemplo/|
+|arquitectura de microservicios ejemplo|De 10 a 100|/microservicios-ejemplo/|
+|arquitectura microservicios ejemplo|De 10 a 100|/microservicios-ejemplo/|
+|arquitectura microservicios nodejs|De 10 a 100|/microservicios-ejemplo/|
+|ejemplo arquitectura microservicios|De 10 a 100|/microservicios-ejemplo/|
+|ejemplo de arquitectura de microservicios|De 10 a 100|/microservicios-ejemplo/|
+|ejemplo microservicios|De 10 a 100|/microservicios-ejemplo/|
+|ejemplo microservicios nodejs|De 10 a 100|/microservicios-ejemplo/|
+|microservicios con node js|De 10 a 100|/microservicios-ejemplo/|
+|microservicios en node js|De 10 a 100|/microservicios-ejemplo/|
+|microservicios node|De 10 a 100|/microservicios-ejemplo/|
+|microservicios node js express|De 10 a 100|/microservicios-ejemplo/|
+|nodejs microservicios|De 10 a 100|/microservicios-ejemplo/|
+
+
+
+
 
 
 
