@@ -23,13 +23,6 @@ Las siguientes son las palabras claves **principales** con las que se iniciaron 
 - spring boot
 - typescript
 
-
-Palabras clave para el tema `NestJS` en los países Colombia, Argentina, México y España.
-
-Las siguientes secciones corresponden a cada uno de los **Post** para el blog, las palabras clave que se deben incluir en cada publicación y también están en orden de prioridad ascendente, es decir, los **Post** se deben escribir en este orden estricto.
-
-📢 Estadísticas de Google ADS
-
 ## NestJS General
 
 Realizar un tutorial con la información general del framework, como instalar, iniciar una aplicación, explicar conceptos básicos, etc., e incluir las palabras claves a continuación.
@@ -42,6 +35,10 @@ Realizar un tutorial con la información general del framework, como instalar, i
 |nestjs api rest|De 10 a 100|/nestjs|
 |tutorial nestjs|De 10 a 100|/nestjs|
 |nestjs v9|De 10 a 100|/nestjs|
+
+|Total de búsquedas promedio|
+|:-------------------------:|
+|8.375|
 
 ## NestJS Prisma
 
