@@ -1,6 +1,6 @@
 # TrulyDigital.tech - Menú general de Navegación.
 
-** - Objetivo General **
+**Objetivo General**
 
 Realizar el diseño y descripción de cada uno de los items del menú de navegación para el blog `https://trulydigital.tech`.
 
