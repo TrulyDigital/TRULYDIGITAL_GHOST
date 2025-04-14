@@ -47,7 +47,6 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
  |   |   |       Nombre: Ejemplode Arquitectura Hexagonal
  |   |   |       URI: /arquitectura-hexagonal-ejemplo/
  |   |   |
- |   |   |   # menú item - Prisma ORM en NestJS.
  |   |   ├── 📂 Tipo: Menú item (esto ya es un artículo)
  |   |   |       Nombre: Prisma ORM en NestJS.
  |   |   |       URI: /prisma/
