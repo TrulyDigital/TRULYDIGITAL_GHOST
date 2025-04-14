@@ -30,6 +30,23 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 - España
 - México
 
+## Arquitectura SEO transaccional
+
+📂 / https://trulydigital.tech
+ |
+ |
+ |   ##: menú principal - NestJS
+ ├── 📂 NestJS
+ |   |
+ |   |   ##: menú item - Que es NestJS ?                   
+ │   ├── 📂 /nestjs/
+ |   |   |
+ |   |   |   ##: menú item - Ejemplo de Arquitectura Hexagonal.
+ |   |   ├── 📂 /arquitectura-hexagonal-ejemplo/
+ |   |   |
+ |   |   |   ##: menú item - Prisma ORM en NestJS.
+ |   |   ├── 📂 /prisma/
+
 ## NestJS General
 
 Realizar un tutorial con la información general del framework, como instalar, iniciar una aplicación, explicar conceptos básicos, etc., e incluir las palabras claves a continuación.
@@ -53,13 +70,13 @@ Descripción de toda la teoría relacionada a la arquitectura hexagonal.
 
 |keword|searchs|url post|
 |:----:|:-----:|:------:|
-|arquitectura hexagonal|De 1 K a 10 k|/arquitectura-hexagonal|
-|arq hexagonal|De 10 a 100|/arquitectura-hexagonal|
-|arquitectura de software hexagonal|De 10 a 100|/arquitectura-hexagonal|
-|arquitectura hexagonal programacion|De 10 a 100|/arquitectura-hexagonal|
-|arquitectura hexagonal software|De 10 a 100|/arquitectura-hexagonal|
-|arquitectura hexagonal y ddd|De 10 a 100|/arquitectura-hexagonal|
-|ddd arquitectura hexagonal|De 10 a 100|/arquitectura-hexagonal|
+|arquitectura hexagonal|De 1 K a 10 k|/arquitectura-hexagonal/|
+|arq hexagonal|De 10 a 100|/arquitectura-hexagonal/|
+|arquitectura de software hexagonal|De 10 a 100|/arquitectura-hexagonal/|
+|arquitectura hexagonal programacion|De 10 a 100|/arquitectura-hexagonal/|
+|arquitectura hexagonal software|De 10 a 100|/arquitectura-hexagonal/|
+|arquitectura hexagonal y ddd|De 10 a 100|/arquitectura-hexagonal/|
+|ddd arquitectura hexagonal|De 10 a 100|/arquitectura-hexagonal/|
 
 ## NestJS - Arquitectura Hexagonal
 
