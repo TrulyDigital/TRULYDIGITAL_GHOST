@@ -23,6 +23,13 @@ Las siguientes son las palabras claves **principales** con las que se iniciaron 
 - spring boot
 - typescript
 
+Los países donde se analizan el promedio e intención de búsquedas de palabras claves son:
+
+- Colombia
+- Argentina
+- España
+- México
+
 ## NestJS General
 
 Realizar un tutorial con la información general del framework, como instalar, iniciar una aplicación, explicar conceptos básicos, etc., e incluir las palabras claves a continuación.
@@ -39,6 +46,31 @@ Realizar un tutorial con la información general del framework, como instalar, i
 |Total de búsquedas promedio|
 |:-------------------------:|
 |8.375|
+
+## Arquitectura Hexagonal
+
+Descripción de toda la teoría relacionada a la arquitectura hexagonal.
+
+|keword|searchs|url post|
+|:----:|:-----:|:------:|
+|arquitectura hexagonal|De 1 K a 10 k|/arquitectura-hexagonal|
+|arq hexagonal|De 10 a 100|/arquitectura-hexagonal|
+|arquitectura de software hexagonal|De 10 a 100|/arquitectura-hexagonal|
+|arquitectura hexagonal programacion|De 10 a 100|/arquitectura-hexagonal|
+|arquitectura hexagonal software|De 10 a 100|/arquitectura-hexagonal|
+|arquitectura hexagonal y ddd|De 10 a 100|/arquitectura-hexagonal|
+|ddd arquitectura hexagonal|De 10 a 100|/arquitectura-hexagonal|
+
+## NestJS - Arquitectura Hexagonal
+
+Un ejemplo de la implementación de la arquitectura hexagonal en el framework NestJS.
+
+El artículo debe detallar los conceptos básicos de la arquitectura hexagonal hasta su implementación con el framework NestJS.
+
+|keword|searchs|url post|
+|:----:|:-----:|:------:|
+|arquitectura hexagonal ejemplo|De 100 a 1 K|/nest/arquitectura-hexagonal-ejemplo|
+|ejemplo arquitectura hexagonal|De 10 a 100|/nest/arquitectura-hexagonal-ejemplo|
 
 ## NestJS Prisma
 
