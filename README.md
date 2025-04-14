@@ -32,6 +32,7 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 
 ## Arquitectura SEO transaccional
 
+```
 📂 / https://trulydigital.tech
  |
  |
@@ -46,6 +47,8 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
  |   |   |
  |   |   |   ##: menú item - Prisma ORM en NestJS.
  |   |   ├── 📂 /prisma/
+
+```
 
 ## NestJS General
 
