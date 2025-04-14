@@ -33,19 +33,19 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 ## Arquitectura SEO transaccional
 
 ```
-📂 / https://trulydigital.tech
+📂 https://trulydigital.tech
  |
  |
- |   ##: menú principal - NestJS
+ |   menú principal - NestJS
  ├── 📂 NestJS
  |   |
- |   |   ##: menú item - Que es NestJS ?                   
+ |   |   menú item - Que es NestJS ?                   
  │   ├── 📂 /nestjs/
  |   |   |
- |   |   |   ##: menú item - Ejemplo de Arquitectura Hexagonal.
+ |   |   |   menú item - Ejemplo de Arquitectura Hexagonal.
  |   |   ├── 📂 /arquitectura-hexagonal-ejemplo/
  |   |   |
- |   |   |   ##: menú item - Prisma ORM en NestJS.
+ |   |   |   menú item - Prisma ORM en NestJS.
  |   |   ├── 📂 /prisma/
 
 ```
