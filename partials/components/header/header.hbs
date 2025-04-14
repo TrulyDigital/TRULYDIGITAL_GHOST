@@ -1,0 +1,62 @@
+<header class="header">
+    <div class="header__container">
+
+        {{!-- Header Nav Desktop --}}
+        <div class="header__nav-desktop-container">
+
+            {{> "components/header/logo/logo"}}
+
+            <nav class="header__nav-desktop">
+                {{navigation}}
+            </nav>
+        </div>
+        
+
+        {{!-- Header Nav Mobile --}}
+        <div class="header__nav-mobile-container header__nav-mobile-container--hidden" id="OBSERVER_NAV_MOBILE">
+            <div class="header__nav-mobile-header">
+                
+                {{> "components/header/logo/logo"}}
+
+                <button class="" aria-label="Cerrar menú mobile" id="CLICK_CLOSE_MOBILE_NAV">
+                    {{> "icons/close"}}
+                </button>
+
+            </div>
+
+            <nav class="header__nav-mobile">
+                {{navigation}}
+                <footer class="header__nav-mobile-footer">
+                    <hr>
+
+                    {{> "components/header/logo/logo"}}
+
+                    {{> "components/networks/networks"}}
+
+                    <a href="/contacto">
+                        Contáctanos
+                    </a>
+                    
+                    <span>{{meta_title}}</span>
+
+                    <hr>
+
+                    {{> "components/payment/payment"}}
+
+                </footer>
+            </nav>
+
+        </div>
+
+        {{!-- Header Actions --}}
+        <div class="header__actions">
+            <button>
+                {{> "components/search/search"}}
+            </button>
+
+            <button class="header__actions-burguer" aria-label="Abrir menú mobile" id="CLICK_OPEN_MOBILE_NAV">
+                {{> "icons/burger"}} 
+            </button>
+        </div>
+    </div>
+</header>

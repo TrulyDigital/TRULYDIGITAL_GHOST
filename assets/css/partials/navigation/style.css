@@ -1,0 +1,200 @@
+.nav__menu-list{
+    font-family: 'Inter';
+    @apply
+    /* mobile */
+    flex
+    flex-col
+    pt-4
+    /* desktop */
+    lg:flex-row
+    lg:pt-0
+}
+
+.nav__menu{
+    @apply
+    /* mobile */
+    flex
+    flex-col
+    cursor-pointer
+    relative
+    /* desktop */
+    lg:items-center
+    lg:ml-5
+}
+
+.nav__menu-inner {
+    @apply
+    /* mobile */
+    flex
+    items-center
+    mt-4
+    border-b
+    border-b-pink-300
+    justify-between
+    pb-1
+    /* desktop */
+    lg:mt-0
+    lg:border-0
+    lg:pb-0
+    lg:justify-normal
+}
+
+.nav__menu-inner-title{
+    @apply
+    /* mobile */
+    text-base
+    text-gray-800
+    /* desktop */
+    lg:group-hover:text-yellow-600
+}
+
+.nav__menu-inner-icon{
+    @apply
+    /* mobile */
+    ml-2 
+    h-[6px] 
+    transform 
+    transition-transform 
+    duration-300
+    /* desktop */
+    lg:group-hover:-rotate-90
+}
+
+.nav__menu-inner-icon--rotate-90 {
+    @apply
+    -rotate-90
+}
+
+.nav__submenu-container {
+    @apply
+    /* mobile */
+    pt-4
+    transition-all 
+    duration-300 
+    ease-in-out 
+    /* desktop */
+    lg:absolute
+    lg:top-full
+    lg:invisible
+    lg:opacity-0
+    lg:z-10
+    lg:left-0
+    lg:group-hover:visible
+    lg:group-hover:opacity-100
+}
+
+.nav__submenu-container--width-1-col{
+    @apply
+    /* mobile */
+    w-full
+    /* desktop */
+    lg:w-[320px]
+}
+
+.nav__submenu-container--width-2-cols{
+    @apply
+    /* mobile */
+    w-full
+    /* desktop */
+    lg:w-[576px] 
+}
+
+.nav__submenu-container--hidden {
+    @apply
+    /* mobile */
+    max-h-0
+    invisible
+    opacity-0
+}
+
+.nav_submenu-container--visible {
+    @apply
+    /* mobile */
+    max-h-[100vh]
+    visible
+    opacity-100
+    mb-8
+}
+
+.nav__submenu-list {
+    @apply
+    /* desktop */
+    lg:border
+    lg:shadow-2xl
+    lg:bg-white
+    lg:border-gray-100
+    lg:rounded-md
+    lg:p-2
+}
+
+.nav__submenu-list--1-col {
+    @apply
+    /* desktop */
+    lg:flex 
+    lg:flex-col
+}
+
+.nav__submenu-list--2-cols {
+    @apply
+    /* desktop */
+    lg:grid 
+    lg:grid-cols-2
+}
+
+.nav__submenu {
+    @apply
+    /* mobile */
+    hover:bg-gray-100
+    hover:rounded-md
+    pt-2
+    pb-2
+    border-b
+    /* desktop */
+    lg:p-2
+    lg:border-0
+}
+
+.nav__submenu > a {
+    @apply
+    /* mobile */
+    flex 
+    flex-row 
+    items-center
+    hover:opacity-100
+}
+
+.nav__submenu > a > img {
+    @apply
+    /* mobile */
+    h-6 
+    w-6
+    self-start
+    p-1
+    /* desktop */
+    mt-1
+}
+
+.nav__submenu > a > span {
+    @apply
+    /* mobile */
+    flex 
+    flex-col 
+    gap-1
+    ml-3
+}
+
+.nav__submenu > a > span > span:nth-child(1) {
+    @apply
+    /* mobile */
+    text-base
+    font-bold
+    text-gray-800
+    /* desktop */
+    lg:text-lg
+}
+  
+.nav__submenu > a > span > span:nth-child(2) {
+    @apply
+    text-sm
+    text-gray-600
+}

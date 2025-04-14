@@ -1,0 +1,151 @@
+.header {
+    @apply
+    /* mobile */
+    flex
+    justify-center
+    items-center
+    w-full
+    h-[8vh]
+    border-b
+    border-b-gray-200
+    md:h-[6vh]
+    /* desktop */
+    lg:border-none
+    lg:h-[12vh]
+    xl:h-[8vh]
+
+}
+
+.header__container{
+    @apply
+    /* mobile */
+    flex
+    flex-row
+    w-11/12
+    justify-between 
+    /* desktop */
+    lg:w-10/12
+}
+
+.header__nav-desktop-container{
+    @apply
+    /* mobile */
+    flex
+    flex-row
+    items-center
+}
+
+.header__logo {
+    @apply
+    /* mobile */
+    hover:opacity-90
+    /* desktop */
+    lg:mr-5
+}
+
+.header__nav-desktop{
+    @apply
+    /* desktop */
+    hidden
+    lg:block
+}
+
+.header__nav-mobile-container {
+    @apply
+    /* mobile */
+    h-[100vh]
+    fixed
+    z-10
+    top-0
+    right-0
+    overflow-y-auto
+    transition-all
+    duration-300
+    bg-white
+    flex
+    flex-col
+}
+
+.header__nav-mobile-container--hidden{
+    @apply
+    /* mobile */
+    w-0
+}
+
+.header__nav-mobile-container--visible{
+    @apply
+    /* mobile */
+    w-full
+    flex
+    items-center
+}
+
+.header__nav-mobile-header{
+    @apply
+    /* mobile */
+    flex
+    flex-row
+    justify-between
+    w-11/12
+    h-[8vh]
+    items-center
+    border-b
+    border-b-gray-200
+    md:h-[6vh]
+}
+
+.header__nav-mobile {
+    @apply
+    /* mobile */
+    w-11/12
+    h-[92vh]
+    md:h-[94vh]
+}
+
+.header__nav-mobile-footer {
+    @apply
+    flex
+    flex-col
+    gap-5
+    items-center
+    mt-20
+    pb-60
+    w-full
+}
+
+.header__nav-mobile-footer > hr {
+    @apply
+    w-2/3
+    h-1
+    border-t
+    border-gray-200
+}
+
+.header__nav-mobile-footer > a {
+    font-family: 'JetBrains Mono';
+    @apply
+    bg-pink-500
+    p-2
+    rounded-xl
+    text-white
+}
+
+.header__nav-mobile-footer > span {
+    @apply
+    font-semibold
+}
+
+.header__actions {
+    @apply
+    /* mobile */
+    flex
+    items-center
+    gap-12
+}
+
+.header__actions-burguer{
+    @apply
+    /* mobile */
+    /* desktop */
+    lg:hidden
+}

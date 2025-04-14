@@ -1,0 +1,6 @@
+@import url('./partials/components/header/style.css');
+@import url('./partials/navigation/style.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
