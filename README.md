@@ -87,7 +87,7 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 
 ```
 
-## NestJS - Primeros pasos en NestJS.
+## NestJS - 1. Primeros pasos en NestJS.
 
 Realizar un tutorial con la información general del framework:
 - Pre-requisitos para instalar NestJS
@@ -131,7 +131,7 @@ Esta lista de palabras clave, son opcionales a incluir y solo utilizarlas para e
 |:-------------------------:|
 |51900|
 
-## NestJS - Arquitectura Hexagonal en NestJS.
+## NestJS - 2. Arquitectura Hexagonal en NestJS.
 
 Un ejemplo de la implementación de la arquitectura hexagonal en el framework NestJS.
 
@@ -148,7 +148,7 @@ Incluir las siguientes palabras clave:
 |:-------------------------:|
 |550|
 
-## NestJS - Prisma ORM en NestJS.
+## NestJS - 3. Prisma ORM en NestJS.
 
 Tutorial con la explicación del funcionamiento del ORM **Prisma**, para el ejemplo, utilizar cualquier motor de base de datos.
 
@@ -160,7 +160,7 @@ Tutorial con la explicación del funcionamiento del ORM **Prisma**, para el ejem
 |:-------------------------:|
 |500|
 
-## NestJS - NestJS y PostgreSQL.
+## NestJS - 4. NestJS y PostgreSQL.
 
 Tutorial de conexión entre NestJS y PostgreSQL con **TypeORM** y explicando los conceptos de **Entidades**. Incluir las palabras clave descritas a continuación.
 
@@ -197,7 +197,7 @@ Las siguientes palabras clave son específicamente sobre **PostgreSQL**, tenerla
 |:-------------------------:|
 |68000|
 
-## NestJS - Pruebas unitarias con Jest y NestJS.
+## NestJS - 5. Pruebas unitarias con Jest y NestJS.
 
 Tutorial de pruebas unitarias y pruebas e2e en NestJS con **jest**
 
@@ -211,7 +211,7 @@ Tutorial de pruebas unitarias y pruebas e2e en NestJS con **jest**
 |:-------------------------:|
 |100|
 
-## NestJS - Microservicios en NestJS
+## NestJS - 6. Microservicios en NestJS
 
 Tutorial y guía completa sobre la construcción de microservicios en NestJS, para los conceptos del **patrón SAGA** en coreografía, utilizar **rabbitmq** para el paso de mensajes/eventos.
 
