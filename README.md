@@ -6,8 +6,22 @@ Realizar el diseño y descripción de cada uno de los items del menú de navegac
 
 **Objetivos Específicos**
 
+- Realizar el diagrama de estructura de árbol del menú de navegación del blog, para poder tener una fácil visualización y planeación de la construcción de artículos.
+
 - Convertir cada item del menú de navegación en una entrada o **post** del blog, el artículo debe ser muy bien estructurado, completo, detallado y lo mas educativo posible, sin escatimar en la longitud del artículo.
 
+- Cada item del menú de navegación diseñado en esta documentación, debe tener una descripción general sobre los temas que se tratarán en el artículo.
+
+- Cada item del menú de navegación diseñado en esta documentación, debe tener un cuadro representativo de **cada una** de las palabras clave que se incluirán en el artículo, una estimación de búsqueda mensual de cada palabra clave y el promedio del total de búsquedas de palabras para ese artículo. Información basada en las estadísticas encontradas en **Google ADS**. 
+
+**Observaciones**
+
+Las siguientes son las palabras claves **principales** con las que se iniciaron las consultas en **Google ADS** y cada uno de sus resultados sirvieron como insumo para saber que palabras clave incluir en cada uno de los artículos que se describen en esta documetación.
+
+- nestjs
+- arquitectura hexagonal
+- spring boot
+- typescript
 
 
 Palabras clave para el tema `NestJS` en los países Colombia, Argentina, México y España.
