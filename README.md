@@ -38,16 +38,19 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
  |
  ├── 📂 Tipo: Menú principal desplegable
  |   |   Nombre: NestJS
- |   |                
- │   ├── 📂 Tipo: Menú item (esto ya es un artículo)
+ |   | 
+ |   |               
+ │   ├── 📂 Tipo: Menú item
  |   |   |   Nombre: Que es NestJS?
  |   |   |   URI: /nestjs/
  |   |   |
- |   |   ├── 📂 Tipo: Menú item (esto ya es un artículo)
+ |   |   |
+ |   |   ├── 📂 Tipo: Menú item
  |   |   |       Nombre: Ejemplode Arquitectura Hexagonal
  |   |   |       URI: /arquitectura-hexagonal-ejemplo/
  |   |   |
- |   |   ├── 📂 Tipo: Menú item (esto ya es un artículo)
+ |   |   |
+ |   |   ├── 📂 Tipo: Menú item
  |   |   |       Nombre: Prisma ORM en NestJS.
  |   |   |       URI: /prisma/
 
