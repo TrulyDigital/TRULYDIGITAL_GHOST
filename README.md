@@ -1,4 +1,10 @@
-# Menú de Navegación y Palabras Clave
+# TrulyDigital.tech - Menú general de Navegación.
+
+** - Objetivo General **
+
+Realizar el diseño y descripción de cada uno de los items del menú de navegación para el blog `https://trulydigital.tech`.
+
+
 
 Palabras clave para el tema `NestJS` en los países Colombia, Argentina, México y España.
 
@@ -6,9 +12,9 @@ Las siguientes secciones corresponden a cada uno de los **Post** para el blog, l
 
 📢 Estadísticas de Google ADS
 
-## 1. NestJS General
+## NestJS General
 
-Realizar un tutorial con la información general del framework, iniciar una aplicación, explicar conceptos básicos e incluir las palabras claves a continuación.
+Realizar un tutorial con la información general del framework, como instalar, iniciar una aplicación, explicar conceptos básicos, etc., e incluir las palabras claves a continuación.
 
 |keword|searchs|url post|
 |:----:|:-----:|:------:|
@@ -19,12 +25,29 @@ Realizar un tutorial con la información general del framework, iniciar una apli
 |tutorial nestjs|De 10 a 100|/nestjs|
 |nestjs v9|De 10 a 100|/nestjs|
 
-## 2. NestJS PostgreSQL
+## NestJS Prisma
 
-Tutorial de conexión entre NestJS y PostgreSQL explicado con **TypeORM** y explicando los conceptos de **Entidades**. Incluir las palabras clave descritas a continuación.
-
-⚠️ Validar si se explica **Docker**
+Tutorial con la explicación del funcionamiento del ORM **Prisma**, para el ejemplo, utilizar cualquier motor de base de datos.
 
 |keword|searchs|url post|
 |:----:|:-----:|:------:|
-|nestjs postgresql|De 10 a 100|/nestjs-postgresql|
+|nest js prisma|De 100 a 1k|/nestjs/prisma|
+
+## NestJS PostgreSQL
+
+Tutorial de conexión entre NestJS y PostgreSQL con **TypeORM** y explicando los conceptos de **Entidades**. Incluir las palabras clave descritas a continuación.
+
+⚠️ Analizar si se explica o no los conceptos de **Docker** en esta publicación.
+
+|keword|searchs|url post|
+|:----:|:-----:|:------:|
+|nestjs postgresql|De 10 a 100|/nestjs/postgresql|
+
+## 3. NestJS Jest
+
+Tutorial de pruebas unitarias y pruebas e2e en NestJS con **jest**
+
+|keword|searchs|url post|
+|:----:|:-----:|:------:|
+|jest nestjs|De 10 a 100|/nestjs/jest|
+|nestjs jest|De 10 a 100|/nestjs/jest|
