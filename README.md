@@ -200,6 +200,18 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 
 ```
 
+## Tabla
+
+<table>
+  <tr>
+    <td rowspan="2">Padre</td>
+    <td>Hijo 1</td>
+  </tr>
+  <tr>
+    <td>Hijo 1</td>
+  </tr>
+</table>
+
 ## NestJS - 1️⃣ Primeros pasos en NestJS.
 
 Realizar un tutorial con la información general del framework:
