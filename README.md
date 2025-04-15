@@ -106,6 +106,9 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 ||**2.3.4**|📂 **/nestjs/microservicios/grpc/**|
 |||➖ `Artículo`|
 |||Cómo Usar gRPC con NestJS: Microservicios Ultrarrápidos|
+||**2️⃣.4️⃣**|📂 **/nestjs/arquitectura-hexagonal/introduccion/**|
+|||➖ `Menú item`|
+|||Arquitectura Hexagonal|
 
 
 ## NestJS - 1️⃣ Primeros pasos en NestJS.
