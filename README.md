@@ -208,51 +208,9 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
     <tbody>
         <tr>
             <td>📂 /</td>
-            <td>
-                <table>
-                    <tr>
-                        <td colspan="2">📂 /nestjs</td>
-                    </tr>
-                    <tr>
-                        <td>Tipo</td>
-                        <td>Menú desplegable</td>
-                    </tr>
-                    <tr>
-                        <td>Nombre</td>
-                        <td>NestJS</td>
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td>📂 /nestjs/tutorial-nestjs/</td>
-                    </tr>
-                </table>
-            </td>
+            <td>📂 /nestjs/</td>
         </tr>
     </tbody>
-</table>
-
-<table>
-    <tr>
-        <td rowspan="1">📂 /</td>
-        <table>
-            <tr>
-                <td rowspan="1">📂 /nestjs/</td>
-            </tr>
-            <tr>
-                <td rowspan="1">Tipo:</td>
-            </tr>
-        </table>
-    </tr>
-</table>
-
-<table>
-  <tr>
-    <td rowspan="2">Padre</td>
-    <td>Hijo 1</td>
-  </tr>
-  <tr>
-    <td>Hijo 1</td>
-  </tr>
 </table>
 
 ## NestJS - 1️⃣ Primeros pasos en NestJS.
