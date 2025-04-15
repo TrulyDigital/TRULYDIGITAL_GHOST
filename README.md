@@ -208,16 +208,31 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
             <td>📂 /</td>
             <td>📂 /nestjs/</td>
             <td></td>
+            <td></td>
         </tr>
         <tr>
             <td></td>
             <td>Tipo</td>
             <td>Menú desplegable</td>
+            <td></td>
         </tr>
         <tr>
             <td></td>
-            <td>Nombre</td>
+            <td>Nombre Menú</td>
             <td>NestJS</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>📂 /nestjs/tutorial-nestjs/</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>Tipo</td>
+            <td>Menú Item</td>
         </tr>
     </tbody>
 </table>
