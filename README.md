@@ -16,7 +16,7 @@ Realizar el diseño y descripción de cada uno de los items del menú de navegac
 
 **Observaciones**
 
-Las siguientes son las palabras claves **principales** con las que se iniciaron las consultas en **Google ADS** y cada uno de sus resultados sirvieron como insumo para saber que palabras clave incluir en cada uno de los artículos que se describen en esta documetación.
+Las siguientes son las palabras claves **principales** con las que se iniciaron las consultas en **Google ADS** y cada uno de sus resultados sirvieron como insumo para saber que palabras clave incluir en cada uno de los artículos que se describen en esta documentación.
 
 - nestjs
 - arquitectura hexagonal
@@ -26,6 +26,8 @@ Las siguientes son las palabras claves **principales** con las que se iniciaron 
 - typescript
 - rabbitmq
 - apache kafka
+- mysql
+- postgresql
 
 Los países donde se analizan el promedio e intención de búsquedas de palabras claves son:
 
@@ -83,7 +85,7 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
  |
  |
  |   # Menú principal desplegable
- ├── 📂 Nombre: Arquitectura de Software
+ ├── 📂 Nombre: Arquitectura
  |
  |
  |   # Menú principal desplegable
@@ -272,7 +274,7 @@ Tutorial con la explicación del funcionamiento del ORM **Prisma**, para el ejem
 
 ## NestJS - 8️⃣ Pruebas unitarias con Jest y NestJS.
 
-Tutorial de pruebas unitarias y pruebas e2e en NestJS con **jest**
+Tutorial de pruebas unitarias y pruebas e2e en NestJS con **jest**.
 
 |keword|searchs|url post|
 |:----:|:-----:|:------:|
@@ -282,10 +284,28 @@ Tutorial de pruebas unitarias y pruebas e2e en NestJS con **jest**
 
 |Total de búsquedas promedio|
 |:-------------------------:|
-|100|
+|150|
+
+El siguiente listado de palabras son específicamente de **jest**, utilizarlas para apalancar o mejorar el artículo original en **NestJS** con pruebas unitarias.
+
+|keword|searchs|url post|
+|:----:|:-----:|:------:|
+|jest|De 1 K a 10 k|/jest/|
+|jest test|De 100 a 1 K|/jest/|
+|npm jest|De 100 a 1 K|/jest/|
+|ts jest|De 10 a 100|/jest/|
+|jest mysql|De 10 a 100|/jest/|
+|jest ts|De 10 a 100|/jest/|
+|nodejs jest|De 10 a 100|/jest/|
+|test con jest|De 10 a 100|/jest/|
+|jest express|De 10 a 100|/jest/|
+
+|Total de búsquedas promedio|
+|:-------------------------:|
+|6300|
 
 
-## Arquitectura Hexagonal - 1️⃣ Arquitectura Hexagonal
+## Arquitectura - 1️⃣ Arquitectura Hexagonal
 
 Descripción de toda la teoría relacionada a la arquitectura hexagonal.
 
