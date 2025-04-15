@@ -214,7 +214,11 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
     <tbody>
         <tr>
             <td>Root</td>
-            <td>Este es el nodo raíz de la documentación.</td>
+            <td>
+                <tr>Row 1</tr>
+                <tr>Row 2</tr>
+                <tr>Row 3</tr>
+            </td>
         </tr>
         <tr>
             <td>Primer Nivel</td>
