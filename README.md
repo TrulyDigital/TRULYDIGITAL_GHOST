@@ -92,7 +92,7 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 
 ```
 
-## NestJS - 1. Primeros pasos en NestJS.
+## NestJS - 1️⃣ Primeros pasos en NestJS.
 
 Realizar un tutorial con la información general del framework:
 - Pre-requisitos para instalar NestJS
@@ -136,7 +136,7 @@ Esta lista de palabras clave, son opcionales a incluir y solo utilizarlas para e
 |:-------------------------:|
 |51900|
 
-## NestJS - 2. Arquitectura Hexagonal en NestJS.
+## NestJS - 2️⃣ Arquitectura Hexagonal en NestJS.
 
 Un ejemplo de la implementación de la arquitectura hexagonal en el framework NestJS.
 
@@ -155,7 +155,7 @@ Incluir las siguientes palabras clave:
 |:-------------------------:|
 |550|
 
-## NestJS - 3. NestJS y MySQL.
+## NestJS - 3️⃣ NestJS y MySQL.
 
 Tutorial de conexión entre NestJS y MySQL con **TypeORM** y explicando los conceptos de **Entidades**.
 
@@ -191,7 +191,7 @@ Las siguientes palabras clave son específicamente sobre **MySQL**, tenerlas en 
 |145000|
 
 
-## NestJS - 4. NestJS y PostgreSQL.
+## NestJS - 4️⃣ NestJS y PostgreSQL.
 
 Tutorial de conexión entre NestJS y PostgreSQL con **TypeORM** y explicando los conceptos de **Entidades**.
 
@@ -226,7 +226,7 @@ Las siguientes palabras clave son específicamente sobre **PostgreSQL**, tenerla
 |:-------------------------:|
 |68000|
 
-## NestJS - 5. Microservicios en NestJS
+## NestJS - 5️⃣ Microservicios en NestJS
 
 Tutorial y guía completa sobre la construcción de microservicios en NestJS, para los conceptos del **patrón SAGA** en coreografía, utilizar **rabbitmq** para el paso de mensajes/eventos.
 
@@ -256,7 +256,7 @@ Incluir las siguientes palabras clave:
 |:-------------------------:|
 |6650|
 
-## NestJS - 7. Prisma ORM en NestJS.
+## NestJS - 7️⃣ Prisma ORM en NestJS.
 
 Tutorial con la explicación del funcionamiento del ORM **Prisma**, para el ejemplo, utilizar cualquier motor de base de datos.
 
@@ -270,7 +270,7 @@ Tutorial con la explicación del funcionamiento del ORM **Prisma**, para el ejem
 |:-------------------------:|
 |5550|
 
-## NestJS - 8. Pruebas unitarias con Jest y NestJS.
+## NestJS - 8️⃣ Pruebas unitarias con Jest y NestJS.
 
 Tutorial de pruebas unitarias y pruebas e2e en NestJS con **jest**
 
@@ -285,7 +285,7 @@ Tutorial de pruebas unitarias y pruebas e2e en NestJS con **jest**
 |100|
 
 
-## Arquitectura Hexagonal - 1. Arquitectura Hexagonal
+## Arquitectura Hexagonal - 1️⃣ Arquitectura Hexagonal
 
 Descripción de toda la teoría relacionada a la arquitectura hexagonal.
 
