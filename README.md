@@ -100,6 +100,12 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 ||**2.3.2**|📂 **/nestjs/microservicios/rabbitmq/**|
 |||➖ `Artículo`|
 |||NestJS con RabbitMQ: Microservicios que se Comunican Eficientemente|
+||**2.3.3**|📂 **/nestjs/microservicios/kafka/**|
+|||➖ `Artículo`|
+|||Arquitectura Basada en Eventos con Kafka y NestJS|
+||**2.3.4**|📂 **/nestjs/microservicios/grpc/**|
+|||➖ `Artículo`|
+|||Cómo Usar gRPC con NestJS: Microservicios Ultrarrápidos|
 
 
 ## NestJS - 1️⃣ Primeros pasos en NestJS.
