@@ -244,6 +244,15 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 ||**2.2.1**|📂 **/nestjs/bases-de-datos/nestjs-postgresql/**|
 |||➖ `Artículo`|
 |||NestJS con PostgreSQL y TypeORM Paso a Paso|
+||**2.2.2**|📂 **/nestjs/bases-de-datos/nestjs-mysql/**|
+|||➖ `Artículo`|
+|||NestJS con MySQL y TypeORM Paso a Paso|
+||**2.2.3**|📂 **/nestjs/bases-de-datos/nestjs-prisma/**|
+|||➖ `Artículo`|
+|||NestJS con Prisma y TypeORM Paso a Paso|
+||**2.2.4**|📂 **/nestjs/bases-de-datos/nestjs-mongodb/**|
+|||➖ `Artículo`|
+|||NestJS con MongoDB y TypeORM Paso a Paso|
 
 ## NestJS - 1️⃣ Primeros pasos en NestJS.
 
