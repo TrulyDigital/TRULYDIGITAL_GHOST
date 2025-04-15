@@ -202,6 +202,18 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 
 ## Tabla
 
+📂
+
+<table>
+  <tr>
+    <td rowspan="2" style="background-color: green;">📂 /</td>
+    <td>Hijo 1</td>
+  </tr>
+  <tr>
+    <td>Hijo 1</td>
+  </tr>
+</table>
+
 <table>
   <tr>
     <td rowspan="2">Padre</td>
