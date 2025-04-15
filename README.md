@@ -207,10 +207,14 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 <table>
     <tr>
         <td rowspan="1">📂 /</td>
-        <td rowspan="1">
-            📂 /nestjs/
-            <td>Tipo:</td>
-        </td>
+        <table>
+            <tr>
+                <td rowspan="1">📂 /nestjs/</td>
+            </tr>
+            <tr>
+                <td rowspan="1">Tipo:</td>
+            </tr>
+        </table>
     </tr>
 </table>
 
