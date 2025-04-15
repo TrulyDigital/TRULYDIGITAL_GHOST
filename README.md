@@ -255,6 +255,7 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 |||`Menú item`|
 |||Primeros pasos|
 ||**2.1.1**|📂 /nestjs/tutorial-nestjs/controladores/|
+|||`Artículo`|
 |||Controladores en NestJS: qué son, cómo funcionan y cómo crear uno|
 
 ## NestJS - 1️⃣ Primeros pasos en NestJS.
