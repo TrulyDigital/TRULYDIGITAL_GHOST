@@ -44,33 +44,38 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
  |   | 
  |   |
  |   |   # Menú item             
- │   ├── 📂 Nombre: Primeros pasos en NestJS.
+ │   ├── 📂 Nombre: 1. Primeros pasos en NestJS.
  |   |   |   URI: /nestjs/
  |   |   |
  |   |   |
  |   |   |   # Menú item
- |   |   ├── 📂 Nombre: Arquitectura Hexagonal en NestJS.   
+ |   |   ├── 📂 Nombre: 2. Arquitectura Hexagonal en NestJS.   
  |   |   |       URI: /arquitectura-hexagonal-ejemplo/
  |   |   |
  |   |   |
  |   |   |   # Menú item
- |   |   ├── 📂 Nombre: Prisma ORM en NestJS.    
- |   |   |       URI: /prisma/
+ |   |   ├── 📂 Nombre: 3. NestJS y MySQL.    
+ |   |   |       URI: /mysql/
  |   |   |
  |   |   |
  |   |   |   # Menú item
- |   |   ├── 📂 Nombre: NestJS y PostgreSQL.    
+ |   |   ├── 📂 Nombre: 4. NestJS y PostgreSQL.    
  |   |   |       URI: /postgresql/
  |   |   |
  |   |   |
  |   |   |   # Menú item
- |   |   ├── 📂 Nombre: Pruebas unitarias con Jest y NestJS.    
- |   |   |       URI: /jest/
+ |   |   ├── 📂 Nombre: 5. Microservicios en NestJS.    
+ |   |   |       URI: /microservicios-ejemplo/
  |   |   |
  |   |   |
  |   |   |   # Menú item
- |   |   ├── 📂 Nombre: Microservicios en NestJS.    
- |   |   |       URI: /microservicios-ejemplo/
+ |   |   ├── 📂 Nombre: 7. Prisma ORM en NestJS.    
+ |   |   |       URI: /prisma/
+ |   |   |
+ |   |   |
+ |   |   |   # Menú item
+ |   |   ├── 📂 Nombre: 8. Pruebas unitarias con Jest y NestJS.    
+ |   |   |       URI: /jest/
  |
  |
  |   # Menú principal desplegable
@@ -137,6 +142,8 @@ Un ejemplo de la implementación de la arquitectura hexagonal en el framework Ne
 
 El artículo debe detallar los conceptos básicos de la arquitectura hexagonal hasta su implementación con el framework NestJS.
 
+📢 Ya que el análisis de intención de búsqueda de palabras clave en **Google ADS** muestra que para **SpringBoot** hay mayores intenciones de búsqueda, el resto de palabras clave se intentarán incluir en este artículo para dar mas visibilidad.
+
 Incluir las siguientes palabras clave:
 
 |keword|searchs|url post|
@@ -148,21 +155,45 @@ Incluir las siguientes palabras clave:
 |:-------------------------:|
 |550|
 
-## NestJS - 3. Prisma ORM en NestJS.
+## NestJS - 3. NestJS y MySQL.
 
-Tutorial con la explicación del funcionamiento del ORM **Prisma**, para el ejemplo, utilizar cualquier motor de base de datos.
+Tutorial de conexión entre NestJS y MySQL con **TypeORM** y explicando los conceptos de **Entidades**.
 
 |keword|searchs|url post|
 |:----:|:-----:|:------:|
-|nest js prisma|De 100 a 1k|/nestjs/prisma|
+|nestjs mysql|De 10 a 100|/mysql/|
+|typeorm express|De 10 a 100|/postgresql/|
+|typeorm nodejs express|De 10 a 100|/postgresql/|
 
 |Total de búsquedas promedio|
 |:-------------------------:|
-|500|
+|150|
+
+Las siguientes palabras clave son específicamente sobre **MySQL**, tenerlas en cuenta para la escritura del artículo ya que pueden apalancar o beneficiar el tema principal.
+
+|keword|searchs|url post|
+|:----:|:-----:|:------:|
+|mysql|De 10 k a 100 k|/mysql/|
+|mysqlworkbench|De 10 k a 100 k|/mysql/
+|mysql server|De 1 K a 10 k|/mysql/|
+|crear base de datos mysql|De 1 K a 10 k|/mysql/|
+|base de datos mysql|De 1 K a 10 k|/mysql/|
+|mysql connector|De 1 K a 10 k|/mysql/|
+|mysql update|De 1 K a 10 k|/mysql/|
+|insert mysql|De 1 K a 10 k|/mysql/|
+|insert en mysql|De 1 K a 10 k|/mysql/|
+|update en mysql|De 1 K a 10 k|/mysql/|
+|database mysql|De 100 a 1 K|/mysql/|
+|mysql db|De 100 a 1 K|/mysql/|
+
+|Total de búsquedas promedio|
+|:-------------------------:|
+|145000|
+
 
 ## NestJS - 4. NestJS y PostgreSQL.
 
-Tutorial de conexión entre NestJS y PostgreSQL con **TypeORM** y explicando los conceptos de **Entidades**. Incluir las palabras clave descritas a continuación.
+Tutorial de conexión entre NestJS y PostgreSQL con **TypeORM** y explicando los conceptos de **Entidades**.
 
 📢 De acuerdo al análisis de palabras clave entre NestJS, PostgreSQL y Docker, puedo enfocar o incluir en la construcción del artículo como implementar la base de datos con Docker sin interferir en los artículos de la sección **Docker** (no hay canibalización).
 
@@ -171,12 +202,10 @@ Incluir las siguientes palabras clave:
 |keword|searchs|url post|
 |:----:|:-----:|:------:|
 |nestjs postgresql|De 10 a 100|/postgresql/|
-|typeorm express|De 10 a 100|/postgresql/|
-|typeorm nodejs express|De 10 a 100|/postgresql/|
 
 |Total de búsquedas promedio|
 |:-------------------------:|
-|150|
+|50|
 
 Las siguientes palabras clave son específicamente sobre **PostgreSQL**, tenerlas en cuenta para la escritura del artículo ya que pueden apalancar o beneficiar el tema principal.
 
@@ -197,21 +226,7 @@ Las siguientes palabras clave son específicamente sobre **PostgreSQL**, tenerla
 |:-------------------------:|
 |68000|
 
-## NestJS - 5. Pruebas unitarias con Jest y NestJS.
-
-Tutorial de pruebas unitarias y pruebas e2e en NestJS con **jest**
-
-|keword|searchs|url post|
-|:----:|:-----:|:------:|
-|jest nestjs|De 10 a 100|/jest/|
-|nestjs jest|De 10 a 100|/jest/|
-|jest ts|De 10 a 100|/jest/|
-
-|Total de búsquedas promedio|
-|:-------------------------:|
-|100|
-
-## NestJS - 6. Microservicios en NestJS
+## NestJS - 5. Microservicios en NestJS
 
 Tutorial y guía completa sobre la construcción de microservicios en NestJS, para los conceptos del **patrón SAGA** en coreografía, utilizar **rabbitmq** para el paso de mensajes/eventos.
 
@@ -241,18 +256,36 @@ Incluir las siguientes palabras clave:
 |:-------------------------:|
 |6650|
 
+## NestJS - 7. Prisma ORM en NestJS.
+
+Tutorial con la explicación del funcionamiento del ORM **Prisma**, para el ejemplo, utilizar cualquier motor de base de datos.
+
+|keword|searchs|url post|
+|:----:|:-----:|:------:|
+|prisma orm|De 1 K a 10 k|/prisma/|
+|nest js prisma|De 100 a 1k|/prisma/|
+|orm prisma|De 10 a 100|/prisma/|
+
+|Total de búsquedas promedio|
+|:-------------------------:|
+|5550|
+
+## NestJS - 8. Pruebas unitarias con Jest y NestJS.
+
+Tutorial de pruebas unitarias y pruebas e2e en NestJS con **jest**
+
+|keword|searchs|url post|
+|:----:|:-----:|:------:|
+|jest nestjs|De 10 a 100|/jest/|
+|nestjs jest|De 10 a 100|/jest/|
+|jest ts|De 10 a 100|/jest/|
+
+|Total de búsquedas promedio|
+|:-------------------------:|
+|100|
 
 
-
-
-
-
-
-
-
-
-
-## Arquitectura Hexagonal
+## Arquitectura Hexagonal - 1. Arquitectura Hexagonal
 
 Descripción de toda la teoría relacionada a la arquitectura hexagonal.
 
@@ -265,6 +298,12 @@ Descripción de toda la teoría relacionada a la arquitectura hexagonal.
 |arquitectura hexagonal software|De 10 a 100|/arquitectura-hexagonal/|
 |arquitectura hexagonal y ddd|De 10 a 100|/arquitectura-hexagonal/|
 |ddd arquitectura hexagonal|De 10 a 100|/arquitectura-hexagonal/|
+|estructura hexagonal arquitectura|De 10 a 100|/arquitectura-hexagonal/|
+|hexagonal arquitectura|De 10 a 100|/arquitectura-hexagonal/|
+
+|Total de búsquedas promedio|
+|:-------------------------:|
+|5400|
 
 
 
