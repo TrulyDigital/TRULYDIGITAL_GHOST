@@ -232,7 +232,7 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
         <!-- -->
         <tr>
             <td></td>
-            <td>2.1 📂 /nestjs/tutorial-nestjs/controladores</td>
+            <td>2.1 📂 /nestjs/tutorial-nestjs/controladores/</td>
         </tr>
         <tr>
             <td></td>
@@ -245,6 +245,13 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
         <!-- -->
     </tbody>
 </table>
+
+|📂 /|2️⃣|📂 /nestjs/|
+|||Menú desplegable|
+|||NestJS|
+||**2.1**|📂 /nestjs/tutorial-nestjs/|
+|||Menú item|
+|||Primeros pasos|
 
 ## NestJS - 1️⃣ Primeros pasos en NestJS.
 
