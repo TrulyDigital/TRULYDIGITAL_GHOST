@@ -210,6 +210,10 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
             <td>Tipo ➡️ Menú desplegable</td>
             <td>Nombre ➡️ NestJS</td>
         </tr>
+        <tr>
+            <td>Tipo ➡️ Menú desplegable</td>
+            <td>Nombre ➡️ NestJS</td>
+        </tr>
     </tbody>
 </table>
 
