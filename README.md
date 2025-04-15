@@ -202,7 +202,7 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 
 ||||
 |:-:|:-:|-|
-|📂 /|2️⃣|📂 **/nestjs/**|
+|📂 **/**|2️⃣|📂 **/nestjs/**|
 |||➖ `Menú desplegable`|
 |||NestJS|
 ||**2.1**|📂 **/nestjs/tutorial-nestjs/**|
@@ -214,6 +214,30 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 ||**2.1.2**|📂 **/nestjs/tutorial-nestjs/inyeccion-de-dependencias/**|
 |||➖ `Artículo`|
 |||Dominando Providers en NestJS: Guía Completa de Inyección de Dependencias|
+||**2.1.3**|📂 **/nestjs/tutorial-nestjs/modulos/**|
+|||➖ `Artículo`|
+|||Módulos en NestJS: La Clave para una Arquitectura Modular y Escalable|
+||**2.1.4**|📂 **/nestjs/tutorial-nestjs/servicios/**|
+|||➖ `Artículo`|
+|||Servicios en NestJS: Qué Son, Cómo Usarlos y Por Qué Son Esenciales|
+||**2.1.5**|📂 **/nestjs/tutorial-nestjs/http/**|
+|||➖ `Artículo`|
+|||Llamadas HTTP en NestJS: Todo lo que Necesitas Saber|
+||**2.1.6**|📂 **/nestjs/tutorial-nestjs/variables-de-entorno/**|
+|||➖ `Artículo`|
+|||Variables de Entorno en NestJS: Guía Completa para Configurar tu App|
+||**2.1.7**|📂 **/nestjs/tutorial-nestjs/interceptores/**|
+|||➖ `Artículo`|
+|||Interceptores en NestJS: Qué Son, Cómo Funcionan y Cuándo Usarlos|
+||**2.1.8**|📂 **/nestjs/tutorial-nestjs/middlewares/**|
+|||➖ `Artículo`|
+|||Todo sobre Middlewares en NestJS: Arquitectura, Ejemplos y Buenas Prácticas|
+||**2.1.9**|📂 **/nestjs/tutorial-nestjs/excepciones/**|
+|||➖ `Artículo`|
+|||Manejo de Excepciones en NestJS: Guía Completa para Backend Robusto|
+||**2.1.10**|📂 **/nestjs/tutorial-nestjs/validacion-de-request/**|
+|||➖ `Artículo`|
+|||Validación de Datos en NestJS: DTOs, Pipes y Buenas Prácticaso|
 
 ## NestJS - 1️⃣ Primeros pasos en NestJS.
 
