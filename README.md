@@ -200,52 +200,6 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 
 ```
 
-## Tabla
-
-<table>
-    <tbody>
-        <tr>
-            <td>📂 /</td>
-            <td>2️⃣ 📂 /nestjs/</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>Menú desplegable</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>NestJS</td>
-        </tr>
-        <!-- -->
-        <tr>
-            <td></td>
-            <td>2.1 📂 /nestjs/tutorial-nestjs/</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>Menú item</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>Primeros pasos</td>
-        </tr>
-        <!-- -->
-        <tr>
-            <td></td>
-            <td>2.1 📂 /nestjs/tutorial-nestjs/controladores/</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>Artículo</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>Controladores en NestJS: qué son, cómo funcionan y cómo crear uno</td>
-        </tr>
-        <!-- -->
-    </tbody>
-</table>
-
 ||||
 |:-:|:-:|-|
 |📂 /|2️⃣|📂 **/nestjs/**|
