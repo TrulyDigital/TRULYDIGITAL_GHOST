@@ -240,7 +240,10 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 |||Validación de Datos en NestJS: DTOs, Pipes y Buenas Prácticaso|
 ||**2️⃣.2️⃣**|📂 **/nestjs/bases-de-datos/**|
 |||➖ `Menú item`|
-|||Primeros pasos|
+|||Bases de datos|
+||**2.2.1**|📂 **/nestjs/bases-de-datos/nestjs-postgresql/**|
+|||➖ `Artículo`|
+|||NestJS con PostgreSQL y TypeORM Paso a Paso|
 
 ## NestJS - 1️⃣ Primeros pasos en NestJS.
 
