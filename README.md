@@ -211,6 +211,9 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 ||**2.1.1**|📂 **/nestjs/tutorial-nestjs/controladores/**|
 |||`Artículo`|
 |||Controladores en NestJS: qué son, cómo funcionan y cómo crear uno|
+||**2.1.2**|📂 **/nestjs/tutorial-nestjs/inyeccion-de-dependencias/**|
+|||`Artículo`|
+|||Dominando Providers en NestJS: Guía Completa de Inyección de Dependencias|
 
 ## NestJS - 1️⃣ Primeros pasos en NestJS.
 
