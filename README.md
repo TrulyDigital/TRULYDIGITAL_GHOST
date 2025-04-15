@@ -215,11 +215,17 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
         <tr>
             <td>Root</td>
             <td>
-                <tbody>
-                    <tr>Row 1</tr>
-                    <tr>Row 2</tr>
-                    <tr>Row 3</tr>
-                </tbody>
+                <table>
+                    <tr>
+                        <td>Row 1</td>
+                    </tr>
+                    <tr>
+                        <td>Row 2</td>
+                    </tr>
+                    <tr>
+                        <td>Row 3</td>
+                    </tr>
+                </table>
             </td>
         </tr>
         <tr>
