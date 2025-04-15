@@ -224,30 +224,6 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
                 </table>
             </td>
         </tr>
-        <tr>
-            <td>Primer Nivel</td>
-            <td>Descripción del primer nivel, contiene más detalles.</td>
-        </tr>
-        <tr>
-            <td>Segundo Nivel</td>
-            <td>Descripción del segundo nivel, más específico.</td>
-        </tr>
-        <tr>
-            <td>Tercer Nivel</td>
-            <td>Detalles sobre el tercer nivel, aún más detallados.</td>
-        </tr>
-        <tr>
-            <td>Cuarto Nivel</td>
-            <td>Información detallada para el cuarto nivel.</td>
-        </tr>
-        <tr>
-            <td>Otro Nodo del Segundo Nivel</td>
-            <td>Otro nodo en el segundo nivel con información adicional.</td>
-        </tr>
-        <tr>
-            <td>Otro Nodo del Primer Nivel</td>
-            <td>Descripción de otro nodo en el primer nivel.</td>
-        </tr>
     </tbody>
 </table>
 
