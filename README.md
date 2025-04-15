@@ -205,22 +205,17 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 📂
 
 <table>
-    <thead>
-        <tr>
-            <th>Elemento</th>
-            <th>Descripción</th>
-        </tr>
-    </thead>
     <tbody>
         <tr>
-            <td>Root</td>
+            <td>📂 /</td>
             <td>
                 <table>
                     <tr>
-                        <td>Row 1</td>
+                        <td>📂 /nestjs</td>
                     </tr>
                     <tr>
-                        <td>Row 2</td>
+                        <td>Tipo:</td>
+                        <td>Menú desplegable</td>
                     </tr>
                     <tr>
                         <td>Row 3</td>
