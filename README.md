@@ -106,9 +106,27 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 ||**2.3.4**|📂 **/nestjs/microservicios/grpc/**|
 |||➖ `Artículo`|
 |||Cómo Usar gRPC con NestJS: Microservicios Ultrarrápidos|
-||**2️⃣.4️⃣**|📂 **/nestjs/arquitectura-hexagonal/introduccion/**|
+||**2️⃣.4️⃣**|📂 **/nestjs/arquitectura-hexagonal/**|
 |||➖ `Menú item`|
 |||Arquitectura Hexagonal|
+||**2.4.1**|📂 **/nestjs/arquitectura-hexagonal/introduccion/**|
+|||➖ `Artículo`|
+|||Arquitectura Hexagonal en NestJS: Separación de Responsabilidades|
+||**2.4.2**|📂 **/nestjs/arquitectura-hexagonal/estructura-del-proyecto/**|
+|||➖ `Artículo`|
+|||Arquitectura Hexagonal en NestJS: Estructura del Proyecto|
+||**2.4.3**|📂 **/nestjs/arquitectura-hexagonal/capa-de-dominio/**|
+|||➖ `Artículo`|
+|||NestJS y la Capa de Dominio: Aplicando Arquitectura Hexagonal Correctamente|
+||**2.4.4**|📂 **/nestjs/arquitectura-hexagonal/capa-de-aplicacion/**|
+|||➖ `Artículo`|
+|||NestJS y la Capa de Aplicación: Organizar la Lógica de Negocio|
+||**2.4.5**|📂 **/nestjs/arquitectura-hexagonal/capa-de-interfaces/**|
+|||➖ `Artículo`|
+|||NestJS y la Capa de Interfaces: Separando lo Externo de lo Interno|
+||**2.4.6**|📂 **/nestjs/arquitectura-hexagonal/capa-de-infraestructura/**|
+|||➖ `Artículo`|
+|||NestJS y la Capa de Infraestructura: APIs y Bases de Datos Bien Encapsulados|
 
 
 ## NestJS - 1️⃣ Primeros pasos en NestJS.
