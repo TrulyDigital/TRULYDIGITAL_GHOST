@@ -206,7 +206,7 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 
 <table>
     <tr>
-        <td rowspan="2">📂 /</td>
+        <td rowspan="1">📂 /</td>
         <td>
             <tr>
                 <td rowspan="1">📂 /nestjs/</td>
@@ -216,9 +216,6 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
                 <td rowspan="1">Menú desplegable</td>
             </tr>
         </td>
-    </tr>
-    <tr>
-        <td>Hijo 1</td>
     </tr>
 </table>
 
