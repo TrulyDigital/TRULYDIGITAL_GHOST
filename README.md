@@ -91,6 +91,16 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 ||**2.2.4**|📂 **/nestjs/bases-de-datos/nestjs-mongodb/**|
 |||➖ `Artículo`|
 |||NestJS con MongoDB y TypeORM Paso a Paso|
+||**2️⃣.3️⃣**|📂 **/nestjs/microservicios/**|
+|||➖ `Menú item`|
+|||Microservicios|
+||**2.3.1**|📂 **/nestjs/microservicios/arquitectura-de-microservicios/**|
+|||➖ `Artículo`|
+|||Microservicios en NestJS: Arquitectura Moderna Paso a Paso|
+||**2.3.2**|📂 **/nestjs/microservicios/rabbitmq/**|
+|||➖ `Artículo`|
+|||NestJS con RabbitMQ: Microservicios que se Comunican Eficientemente|
+
 
 ## NestJS - 1️⃣ Primeros pasos en NestJS.
 
