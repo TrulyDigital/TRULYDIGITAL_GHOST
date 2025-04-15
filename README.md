@@ -252,8 +252,9 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 |||`Menú desplegable`|
 |||NestJS|
 ||**2.1**|📂 /nestjs/tutorial-nestjs/|
-|||Menú item|
+|||`Menú item`|
 |||Primeros pasos|
+|||Controladores en NestJS: qué son, cómo funcionan y cómo crear uno|
 
 ## NestJS - 1️⃣ Primeros pasos en NestJS.
 
