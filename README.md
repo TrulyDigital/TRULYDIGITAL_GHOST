@@ -218,7 +218,7 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
         </tr>
         <tr>
             <td></td>
-            <td>Nombre Menú</td>
+            <td>Nombre</td>
             <td>NestJS</td>
             <td></td>
         </tr>
@@ -233,6 +233,12 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
             <td></td>
             <td>Tipo</td>
             <td>Menú Item</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>Nombre</td>
+            <td>Primeros Pasos</td>
         </tr>
     </tbody>
 </table>
