@@ -205,7 +205,7 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 |📂 **/**|2️⃣|📂 **/nestjs/**|
 |||➖ `Menú desplegable`|
 |||NestJS|
-||**2.1**|📂 **/nestjs/tutorial-nestjs/**|
+||**2️⃣.1️⃣**|📂 **/nestjs/tutorial-nestjs/**|
 |||➖ `Menú item`|
 |||Primeros pasos|
 ||**2.1.1**|📂 **/nestjs/tutorial-nestjs/controladores/**|
@@ -238,6 +238,9 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 ||**2.1.10**|📂 **/nestjs/tutorial-nestjs/validacion-de-request/**|
 |||➖ `Artículo`|
 |||Validación de Datos en NestJS: DTOs, Pipes y Buenas Prácticaso|
+||**2️⃣.2️⃣**|📂 **/nestjs/bases-de-datos/**|
+|||➖ `Menú item`|
+|||Primeros pasos|
 
 ## NestJS - 1️⃣ Primeros pasos en NestJS.
 
