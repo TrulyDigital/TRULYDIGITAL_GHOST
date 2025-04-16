@@ -117,21 +117,26 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 |||Microservicios en NestJS: Arquitectura Moderna Paso a Paso|
 ||**2.3.2**|📂 **/nestjs/microservicios/rabbitmq/** ❌|
 |||➖ `Artículo`|
+|||RabbitMQ|
 |||NestJS con RabbitMQ: Microservicios que se Comunican Eficientemente|
 ||**2.3.3**|📂 **/nestjs/microservicios/kafka/** ❌|
 |||➖ `Artículo`|
+|||Kafka|
 |||Arquitectura Basada en Eventos con Kafka y NestJS|
 ||**2.3.4**|📂 **/nestjs/microservicios/grpc/** ❌|
 |||➖ `Artículo`|
+|||gRPC|
 |||Cómo Usar gRPC con NestJS: Microservicios Ultrarrápidos|
 ||**2️⃣.4️⃣**|📂 **/nestjs/arquitectura-hexagonal/** ❌|
 |||➖ `Menú item`|
 |||Arquitectura Hexagonal|
 ||**2.4.1**|📂 **/nestjs/arquitectura-hexagonal/primeros-pasos/** ❌|
 |||➖ `Artículo`|
+|||Introducción|
 |||Arquitectura Hexagonal en NestJS: Separación de Responsabilidades|
 ||**2.4.2**|📂 **/nestjs/arquitectura-hexagonal/estructura-del-proyecto/** ❌|
 |||➖ `Artículo`|
+|||Estructura Proyecto|
 |||Arquitectura Hexagonal en NestJS: Estructura del Proyecto|
 ||**2.4.3**|📂 **/nestjs/arquitectura-hexagonal/capa-de-dominio/** ❌|
 |||➖ `Artículo`|
