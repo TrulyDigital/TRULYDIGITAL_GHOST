@@ -39,6 +39,8 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 
 ## 2️⃣ NestJS
 
+Estructura general del menú de navegación para la categoría **NestJS**, items del menú de navegación y artículos iniciales contemplados para el blog.
+
 ||||
 |:-:|:-:|-|
 |📂 **/**|2️⃣|📂 **/nestjs/**|
