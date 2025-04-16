@@ -37,7 +37,7 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 - España
 - México
 
-## Arquitectura SEO transaccional
+## 2️⃣ NestJS
 
 ||||
 |:-:|:-:|-|
