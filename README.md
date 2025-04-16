@@ -93,6 +93,7 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 ||**2️⃣.2️⃣**|📂 **/nestjs/bases-de-datos/** ❌|
 |||➖ `Menú item`|
 |||Bases de datos|
+|||Conectando NestJS a una Base de Datos: Introducción Práctica|
 ||**2.2.1**|📂 **/nestjs/bases-de-datos/nestjs-postgresql/** ❌|
 |||➖ `Artículo`|
 |||TypeORM PostgreSQL|
@@ -112,6 +113,7 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 ||**2️⃣.3️⃣**|📂 **/nestjs/microservicios/** ❌|
 |||➖ `Menú item`|
 |||Microservicios|
+|||De Monolito a Microservicios: Cómo Empezar con NestJS|
 ||**2.3.1**|📂 **/nestjs/microservicios/arquitectura-de-microservicios/** ❌|
 |||➖ `Artículo`|
 |||Arquitectura|
@@ -131,6 +133,7 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 ||**2️⃣.4️⃣**|📂 **/nestjs/arquitectura-hexagonal/** ❌|
 |||➖ `Menú item`|
 |||Arquitectura Hexagonal|
+|||Arquitectura Hexagonal con NestJS: Introducción a una Estructura Sólida|
 ||**2.4.1**|📂 **/nestjs/arquitectura-hexagonal/primeros-pasos/** ❌|
 |||➖ `Artículo`|
 |||Introducción|
