@@ -43,88 +43,88 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 |📂 **/**|2️⃣|📂 **/nestjs/**|
 |||➖ `Menú desplegable`|
 |||NestJS|
-||**2️⃣.1️⃣**|📂 **/nestjs/tutorial-nestjs/**|
+||**2️⃣.1️⃣**|📂 **/nestjs/tutorial-nestjs/** ❌|
 |||➖ `Menú item`|
 |||Primeros pasos|
-||**2.1.1**|📂 **/nestjs/tutorial-nestjs/controladores/**|
+||**2.1.1**|📂 **/nestjs/tutorial-nestjs/controladores/** ❌|
 |||➖ `Artículo`|
 |||Controladores en NestJS: qué son, cómo funcionan y cómo crear uno|
-||**2.1.2**|📂 **/nestjs/tutorial-nestjs/inyeccion-de-dependencias/**|
+||**2.1.2**|📂 **/nestjs/tutorial-nestjs/inyeccion-de-dependencias/** ❌|
 |||➖ `Artículo`|
 |||Dominando Providers en NestJS: Guía Completa de Inyección de Dependencias|
-||**2.1.3**|📂 **/nestjs/tutorial-nestjs/modulos/**|
+||**2.1.3**|📂 **/nestjs/tutorial-nestjs/modulos/** ❌|
 |||➖ `Artículo`|
 |||Módulos en NestJS: La Clave para una Arquitectura Modular y Escalable|
-||**2.1.4**|📂 **/nestjs/tutorial-nestjs/servicios/**|
+||**2.1.4**|📂 **/nestjs/tutorial-nestjs/servicios/** ❌|
 |||➖ `Artículo`|
 |||Servicios en NestJS: Qué Son, Cómo Usarlos y Por Qué Son Esenciales|
-||**2.1.5**|📂 **/nestjs/tutorial-nestjs/http/**|
+||**2.1.5**|📂 **/nestjs/tutorial-nestjs/http/** ❌|
 |||➖ `Artículo`|
 |||Llamadas HTTP en NestJS: Todo lo que Necesitas Saber|
-||**2.1.6**|📂 **/nestjs/tutorial-nestjs/variables-de-entorno/**|
+||**2.1.6**|📂 **/nestjs/tutorial-nestjs/variables-de-entorno/** ❌|
 |||➖ `Artículo`|
 |||Variables de Entorno en NestJS: Guía Completa para Configurar tu App|
-||**2.1.7**|📂 **/nestjs/tutorial-nestjs/interceptores/**|
+||**2.1.7**|📂 **/nestjs/tutorial-nestjs/interceptores/** ❌|
 |||➖ `Artículo`|
 |||Interceptores en NestJS: Qué Son, Cómo Funcionan y Cuándo Usarlos|
-||**2.1.8**|📂 **/nestjs/tutorial-nestjs/middlewares/**|
+||**2.1.8**|📂 **/nestjs/tutorial-nestjs/middlewares/** ❌|
 |||➖ `Artículo`|
 |||Todo sobre Middlewares en NestJS: Arquitectura, Ejemplos y Buenas Prácticas|
-||**2.1.9**|📂 **/nestjs/tutorial-nestjs/excepciones/**|
+||**2.1.9**|📂 **/nestjs/tutorial-nestjs/excepciones/** ❌|
 |||➖ `Artículo`|
 |||Manejo de Excepciones en NestJS: Guía Completa para Backend Robusto|
-||**2.1.10**|📂 **/nestjs/tutorial-nestjs/validacion-de-request/**|
+||**2.1.10**|📂 **/nestjs/tutorial-nestjs/validacion-de-request/** ❌|
 |||➖ `Artículo`|
 |||Validación de Datos en NestJS: DTOs, Pipes y Buenas Prácticaso|
-||**2️⃣.2️⃣**|📂 **/nestjs/bases-de-datos/**|
+||**2️⃣.2️⃣**|📂 **/nestjs/bases-de-datos/** ❌|
 |||➖ `Menú item`|
 |||Bases de datos|
-||**2.2.1**|📂 **/nestjs/bases-de-datos/nestjs-postgresql/**|
+||**2.2.1**|📂 **/nestjs/bases-de-datos/nestjs-postgresql/** ❌|
 |||➖ `Artículo`|
 |||NestJS con PostgreSQL y TypeORM Paso a Paso|
-||**2.2.2**|📂 **/nestjs/bases-de-datos/nestjs-mysql/**|
+||**2.2.2**|📂 **/nestjs/bases-de-datos/nestjs-mysql/** ❌|
 |||➖ `Artículo`|
 |||NestJS con MySQL y TypeORM Paso a Paso|
-||**2.2.3**|📂 **/nestjs/bases-de-datos/nestjs-prisma/**|
+||**2.2.3**|📂 **/nestjs/bases-de-datos/nestjs-prisma/** ❌|
 |||➖ `Artículo`|
 |||NestJS con Prisma y TypeORM Paso a Paso|
-||**2.2.4**|📂 **/nestjs/bases-de-datos/nestjs-mongodb/**|
+||**2.2.4**|📂 **/nestjs/bases-de-datos/nestjs-mongodb/** ❌|
 |||➖ `Artículo`|
 |||NestJS con MongoDB y TypeORM Paso a Paso|
-||**2️⃣.3️⃣**|📂 **/nestjs/microservicios/**|
+||**2️⃣.3️⃣**|📂 **/nestjs/microservicios/** ❌|
 |||➖ `Menú item`|
 |||Microservicios|
-||**2.3.1**|📂 **/nestjs/microservicios/arquitectura-de-microservicios/**|
+||**2.3.1**|📂 **/nestjs/microservicios/arquitectura-de-microservicios/** ❌|
 |||➖ `Artículo`|
 |||Microservicios en NestJS: Arquitectura Moderna Paso a Paso|
-||**2.3.2**|📂 **/nestjs/microservicios/rabbitmq/**|
+||**2.3.2**|📂 **/nestjs/microservicios/rabbitmq/** ❌|
 |||➖ `Artículo`|
 |||NestJS con RabbitMQ: Microservicios que se Comunican Eficientemente|
-||**2.3.3**|📂 **/nestjs/microservicios/kafka/**|
+||**2.3.3**|📂 **/nestjs/microservicios/kafka/** ❌|
 |||➖ `Artículo`|
 |||Arquitectura Basada en Eventos con Kafka y NestJS|
-||**2.3.4**|📂 **/nestjs/microservicios/grpc/**|
+||**2.3.4**|📂 **/nestjs/microservicios/grpc/** ❌|
 |||➖ `Artículo`|
 |||Cómo Usar gRPC con NestJS: Microservicios Ultrarrápidos|
-||**2️⃣.4️⃣**|📂 **/nestjs/arquitectura-hexagonal/**|
+||**2️⃣.4️⃣**|📂 **/nestjs/arquitectura-hexagonal/** ❌|
 |||➖ `Menú item`|
 |||Arquitectura Hexagonal|
-||**2.4.1**|📂 **/nestjs/arquitectura-hexagonal/primeros-pasos/**|
+||**2.4.1**|📂 **/nestjs/arquitectura-hexagonal/primeros-pasos/** ❌|
 |||➖ `Artículo`|
 |||Arquitectura Hexagonal en NestJS: Separación de Responsabilidades|
-||**2.4.2**|📂 **/nestjs/arquitectura-hexagonal/estructura-del-proyecto/**|
+||**2.4.2**|📂 **/nestjs/arquitectura-hexagonal/estructura-del-proyecto/** ❌|
 |||➖ `Artículo`|
 |||Arquitectura Hexagonal en NestJS: Estructura del Proyecto|
-||**2.4.3**|📂 **/nestjs/arquitectura-hexagonal/capa-de-dominio/**|
+||**2.4.3**|📂 **/nestjs/arquitectura-hexagonal/capa-de-dominio/** ❌|
 |||➖ `Artículo`|
 |||NestJS y la Capa de Dominio: Aplicando Arquitectura Hexagonal Correctamente|
-||**2.4.4**|📂 **/nestjs/arquitectura-hexagonal/capa-de-aplicacion/**|
+||**2.4.4**|📂 **/nestjs/arquitectura-hexagonal/capa-de-aplicacion/** ❌|
 |||➖ `Artículo`|
 |||NestJS y la Capa de Aplicación: Organizar la Lógica de Negocio|
-||**2.4.5**|📂 **/nestjs/arquitectura-hexagonal/capa-de-interfaces/**|
+||**2.4.5**|📂 **/nestjs/arquitectura-hexagonal/capa-de-interfaces/** ❌|
 |||➖ `Artículo`|
 |||NestJS y la Capa de Interfaces: Separando lo Externo de lo Interno|
-||**2.4.6**|📂 **/nestjs/arquitectura-hexagonal/capa-de-infraestructura/**|
+||**2.4.6**|📂 **/nestjs/arquitectura-hexagonal/capa-de-infraestructura/** ❌|
 |||➖ `Artículo`|
 |||NestJS y la Capa de Infraestructura: APIs y Bases de Datos Bien Encapsulados|
 
