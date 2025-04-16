@@ -49,6 +49,7 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 ||**2️⃣.1️⃣**|📂 **/nestjs/tutorial-nestjs/** ❌|
 |||➖ `Menú item`|
 |||Primeros pasos|
+|||NestJS desde Cero: Aprende a Construir Aplicaciones Escalables|
 ||**2.1.1**|📂 **/nestjs/tutorial-nestjs/controladores/** ❌|
 |||➖ `Artículo`|
 |||Controladores|
