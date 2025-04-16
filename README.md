@@ -55,51 +55,65 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 |||Controladores en NestJS: qué son, cómo funcionan y cómo crear uno|
 ||**2.1.2**|📂 **/nestjs/tutorial-nestjs/inyeccion-de-dependencias/** ❌|
 |||➖ `Artículo`|
+|||Dependencias|
 |||Dominando Providers en NestJS: Guía Completa de Inyección de Dependencias|
 ||**2.1.3**|📂 **/nestjs/tutorial-nestjs/modulos/** ❌|
 |||➖ `Artículo`|
+|||Módulos|
 |||Módulos en NestJS: La Clave para una Arquitectura Modular y Escalable|
 ||**2.1.4**|📂 **/nestjs/tutorial-nestjs/servicios/** ❌|
 |||➖ `Artículo`|
+|||Servicios|
 |||Servicios en NestJS: Qué Son, Cómo Usarlos y Por Qué Son Esenciales|
 ||**2.1.5**|📂 **/nestjs/tutorial-nestjs/http/** ❌|
 |||➖ `Artículo`|
+|||HTTP|
 |||Llamadas HTTP en NestJS: Todo lo que Necesitas Saber|
 ||**2.1.6**|📂 **/nestjs/tutorial-nestjs/variables-de-entorno/** ❌|
 |||➖ `Artículo`|
+|||Configuración|
 |||Variables de Entorno en NestJS: Guía Completa para Configurar tu App|
 ||**2.1.7**|📂 **/nestjs/tutorial-nestjs/interceptores/** ❌|
 |||➖ `Artículo`|
+|||Interceptores|
 |||Interceptores en NestJS: Qué Son, Cómo Funcionan y Cuándo Usarlos|
 ||**2.1.8**|📂 **/nestjs/tutorial-nestjs/middlewares/** ❌|
 |||➖ `Artículo`|
+|||Middlewares|
 |||Todo sobre Middlewares en NestJS: Arquitectura, Ejemplos y Buenas Prácticas|
 ||**2.1.9**|📂 **/nestjs/tutorial-nestjs/excepciones/** ❌|
 |||➖ `Artículo`|
+|||Excepciones|
 |||Manejo de Excepciones en NestJS: Guía Completa para Backend Robusto|
 ||**2.1.10**|📂 **/nestjs/tutorial-nestjs/validacion-de-request/** ❌|
 |||➖ `Artículo`|
+|||Validaciones|
 |||Validación de Datos en NestJS: DTOs, Pipes y Buenas Prácticaso|
 ||**2️⃣.2️⃣**|📂 **/nestjs/bases-de-datos/** ❌|
 |||➖ `Menú item`|
 |||Bases de datos|
 ||**2.2.1**|📂 **/nestjs/bases-de-datos/nestjs-postgresql/** ❌|
 |||➖ `Artículo`|
+|||TypeORM PostgreSQL|
 |||NestJS con PostgreSQL y TypeORM Paso a Paso|
 ||**2.2.2**|📂 **/nestjs/bases-de-datos/nestjs-mysql/** ❌|
 |||➖ `Artículo`|
+|||TypeORM MySQL|
 |||NestJS con MySQL y TypeORM Paso a Paso|
 ||**2.2.3**|📂 **/nestjs/bases-de-datos/nestjs-prisma/** ❌|
 |||➖ `Artículo`|
+|||TypeORM Prisma|
 |||NestJS con Prisma y TypeORM Paso a Paso|
 ||**2.2.4**|📂 **/nestjs/bases-de-datos/nestjs-mongodb/** ❌|
 |||➖ `Artículo`|
+|||TypeORM Mongo|
 |||NestJS con MongoDB y TypeORM Paso a Paso|
 ||**2️⃣.3️⃣**|📂 **/nestjs/microservicios/** ❌|
 |||➖ `Menú item`|
 |||Microservicios|
 ||**2.3.1**|📂 **/nestjs/microservicios/arquitectura-de-microservicios/** ❌|
 |||➖ `Artículo`|
+|||Arquitectura|
 |||Microservicios en NestJS: Arquitectura Moderna Paso a Paso|
 ||**2.3.2**|📂 **/nestjs/microservicios/rabbitmq/** ❌|
 |||➖ `Artículo`|
