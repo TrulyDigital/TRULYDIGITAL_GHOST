@@ -46,6 +46,14 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 ||**2️⃣.1️⃣**|📂 **/nestjs/tutorial-nestjs/**|
 |||➖ `Menú item`|
 |||Primeros pasos|
+||||keyword|searchs|url post|
+|:----:|:-----:|:------:|
+|nestjs|De 10 k a 100 k|/nestjs/|
+|api rest nestjs|De 10 a 100|/nestjs/|
+|js nest|De 10 a 100|/nestjs/|
+|nestjs api rest|De 10 a 100|/nestjs/|
+|tutorial nestjs|De 10 a 100|/nestjs/|
+|nestjs v9|De 10 a 100|/nestjs/||
 ||**2.1.1**|📂 **/nestjs/tutorial-nestjs/controladores/**|
 |||➖ `Artículo`|
 |||Controladores en NestJS: qué son, cómo funcionan y cómo crear uno|
