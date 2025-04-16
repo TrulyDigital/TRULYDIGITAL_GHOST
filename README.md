@@ -53,63 +53,63 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 ||**2.1.1**|📂 **/nestjs/tutorial-nestjs/controladores/** ❌|
 |||➖ `Artículo`|
 |||Controladores|
-|||Controladores en NestJS: qué son, cómo funcionan y cómo crear uno|
+|||NestJS desde Cero: Controladores, qué son, cómo funcionan y cómo crear uno|
 ||**2.1.2**|📂 **/nestjs/tutorial-nestjs/inyeccion-de-dependencias/** ❌|
 |||➖ `Artículo`|
 |||Dependencias|
-|||Dominando Providers en NestJS: Guía Completa de Inyección de Dependencias|
+|||NestJS desde Cero: Los Providers, guía completa de Inyección de Dependencias|
 ||**2.1.3**|📂 **/nestjs/tutorial-nestjs/modulos/** ❌|
 |||➖ `Artículo`|
 |||Módulos|
-|||Módulos en NestJS: La Clave para una Arquitectura Modular y Escalable|
+|||NestJS desde Cero: Los Módulos son la clave para una Arquitectura Escalable|
 ||**2.1.4**|📂 **/nestjs/tutorial-nestjs/servicios/** ❌|
 |||➖ `Artículo`|
 |||Servicios|
-|||Servicios en NestJS: Qué Son, Cómo Usarlos y Por Qué Son Esenciales|
+|||NestJS desde Cero: Servicios, qué son, cómo usarlos y por qué son esenciales|
 ||**2.1.5**|📂 **/nestjs/tutorial-nestjs/http/** ❌|
 |||➖ `Artículo`|
 |||HTTP|
-|||Llamadas HTTP en NestJS: Todo lo que Necesitas Saber|
+|||NestJS desde Cero: Llamadas HTTP y lo que necesitas saber|
 ||**2.1.6**|📂 **/nestjs/tutorial-nestjs/variables-de-entorno/** ❌|
 |||➖ `Artículo`|
 |||Configuración|
-|||Variables de Entorno en NestJS: Guía Completa para Configurar tu App|
+|||NestJS desde Cero: Variables de Entorno para configurar tu App|
 ||**2.1.7**|📂 **/nestjs/tutorial-nestjs/interceptores/** ❌|
 |||➖ `Artículo`|
 |||Interceptores|
-|||Interceptores en NestJS: Qué Son, Cómo Funcionan y Cuándo Usarlos|
+|||NestJS desde Cero: Interceptores, qué son, cómo funcionan y cuándo usarlos|
 ||**2.1.8**|📂 **/nestjs/tutorial-nestjs/middlewares/** ❌|
 |||➖ `Artículo`|
 |||Middlewares|
-|||Todo sobre Middlewares en NestJS: Arquitectura, Ejemplos y Buenas Prácticas|
+|||NestJS desde Cero: Middlewares, su arquitectura, ejemplos y buenas prácticas|
 ||**2.1.9**|📂 **/nestjs/tutorial-nestjs/excepciones/** ❌|
 |||➖ `Artículo`|
 |||Excepciones|
-|||Manejo de Excepciones en NestJS: Guía Completa para Backend Robusto|
+|||NestJS desde Cero: Manejo de Excepciones para Backend Robusto|
 ||**2.1.10**|📂 **/nestjs/tutorial-nestjs/validacion-de-request/** ❌|
 |||➖ `Artículo`|
 |||Validaciones|
-|||Validación de Datos en NestJS: DTOs, Pipes y Buenas Prácticaso|
+|||NestJS desde Cero: Validación de Datos, pipes y buenas prácticas|
 ||**2️⃣.2️⃣**|📂 **/nestjs/bases-de-datos/** ❌|
 |||➖ `Menú item`|
 |||Bases de datos|
-|||Conectando NestJS a una Base de Datos: Introducción Práctica|
+|||Bases de datos en NestJS y TypeORM: Introducción Práctica|
 ||**2.2.1**|📂 **/nestjs/bases-de-datos/nestjs-postgresql/** ❌|
 |||➖ `Artículo`|
 |||TypeORM PostgreSQL|
-|||NestJS con PostgreSQL y TypeORM Paso a Paso|
+|||Bases de datos en NestJS y TypeORM: PostgreSQL|
 ||**2.2.2**|📂 **/nestjs/bases-de-datos/nestjs-mysql/** ❌|
 |||➖ `Artículo`|
 |||TypeORM MySQL|
-|||NestJS con MySQL y TypeORM Paso a Paso|
+|||Bases de datos en NestJS y TypeORM: MySQL|
 ||**2.2.3**|📂 **/nestjs/bases-de-datos/nestjs-prisma/** ❌|
 |||➖ `Artículo`|
 |||TypeORM Prisma|
-|||NestJS con Prisma y TypeORM Paso a Paso|
+|||Bases de datos en NestJS y TypeORM: Prisma|
 ||**2.2.4**|📂 **/nestjs/bases-de-datos/nestjs-mongodb/** ❌|
 |||➖ `Artículo`|
 |||TypeORM Mongo|
-|||NestJS con MongoDB y TypeORM Paso a Paso|
+|||Bases de datos en NestJS y TypeORM: MongoDB|
 ||**2️⃣.3️⃣**|📂 **/nestjs/microservicios/** ❌|
 |||➖ `Menú item`|
 |||Microservicios|
