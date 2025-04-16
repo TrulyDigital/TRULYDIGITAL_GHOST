@@ -1,4 +1,5 @@
-# TrulyDigital.tech - Menú general de Navegación.
+# TrulyDigital.tech 
+# Arquitectura SEO Transaccional.
 
 **Objetivo General**
 
