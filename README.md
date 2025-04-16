@@ -51,6 +51,7 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 |||Primeros pasos|
 ||**2.1.1**|📂 **/nestjs/tutorial-nestjs/controladores/** ❌|
 |||➖ `Artículo`|
+|||Controladores|
 |||Controladores en NestJS: qué son, cómo funcionan y cómo crear uno|
 ||**2.1.2**|📂 **/nestjs/tutorial-nestjs/inyeccion-de-dependencias/** ❌|
 |||➖ `Artículo`|
