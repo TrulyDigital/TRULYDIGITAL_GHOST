@@ -113,7 +113,7 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 ||**2️⃣.3️⃣**|📂 **/nestjs/microservicios/** ❌|
 |||➖ `Menú item`|
 |||Microservicios|
-|||De Monolito a Microservicios: Cómo Empezar con NestJS|
+|||Microservicios en NestJS: Cómo Empezar|
 ||**2.3.1**|📂 **/nestjs/microservicios/arquitectura-de-microservicios/** ❌|
 |||➖ `Artículo`|
 |||Arquitectura|
@@ -121,23 +121,23 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 ||**2.3.2**|📂 **/nestjs/microservicios/rabbitmq/** ❌|
 |||➖ `Artículo`|
 |||RabbitMQ|
-|||NestJS con RabbitMQ: Microservicios que se Comunican Eficientemente|
+|||Microservicios en NestJS: RabbitMQ y Comunicación Eficientemente|
 ||**2.3.3**|📂 **/nestjs/microservicios/kafka/** ❌|
 |||➖ `Artículo`|
 |||Kafka|
-|||Arquitectura Basada en Eventos con Kafka y NestJS|
+|||Microservicios en NestJS: Kafka y Arquitecturas basadas en Eventos|
 ||**2.3.4**|📂 **/nestjs/microservicios/grpc/** ❌|
 |||➖ `Artículo`|
 |||gRPC|
-|||Cómo Usar gRPC con NestJS: Microservicios Ultrarrápidos|
+|||Microservicios en NestJS: gRPC para Microservicios Ultrarrápidos|
 ||**2️⃣.4️⃣**|📂 **/nestjs/arquitectura-hexagonal/** ❌|
 |||➖ `Menú item`|
 |||Arquitectura Hexagonal|
-|||Arquitectura Hexagonal con NestJS: Introducción a una Estructura Sólida|
+|||Arquitectura Hexagonal con NestJS: Teoría y Práctica para Empezar|
 ||**2.4.1**|📂 **/nestjs/arquitectura-hexagonal/primeros-pasos/** ❌|
 |||➖ `Artículo`|
 |||Introducción|
-|||Arquitectura Hexagonal en NestJS: Separación de Responsabilidades|
+|||Arquitectura Hexagonal con NestJS: Primeros pasos|
 ||**2.4.2**|📂 **/nestjs/arquitectura-hexagonal/estructura-del-proyecto/** ❌|
 |||➖ `Artículo`|
 |||Estructura Proyecto|
@@ -145,19 +145,19 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 ||**2.4.3**|📂 **/nestjs/arquitectura-hexagonal/capa-de-dominio/** ❌|
 |||➖ `Artículo`|
 |||Capa de Dominio|
-|||NestJS y la Capa de Dominio: Aplicando Arquitectura Hexagonal Correctamente|
+|||Arquitectura Hexagonal con NestJS: Capa de Dominio |
 ||**2.4.4**|📂 **/nestjs/arquitectura-hexagonal/capa-de-aplicacion/** ❌|
 |||➖ `Artículo`|
 |||Capa de Aplicación|
-|||NestJS y la Capa de Aplicación: Organizar la Lógica de Negocio|
+|||Arquitectura Hexagonal con NestJS: Capa de Aplicación|
 ||**2.4.5**|📂 **/nestjs/arquitectura-hexagonal/capa-de-interfaces/** ❌|
 |||➖ `Artículo`|
 |||Capa de Interfaces|
-|||NestJS y la Capa de Interfaces: Separando lo Externo de lo Interno|
+|||Arquitectura Hexagonal con NestJS: Capa de Interfaces|
 ||**2.4.6**|📂 **/nestjs/arquitectura-hexagonal/capa-de-infraestructura/** ❌|
 |||➖ `Artículo`|
 |||Capa de Infraestructura|
-|||NestJS y la Capa de Infraestructura: APIs y Bases de Datos Bien Encapsulados|
+|||Arquitectura Hexagonal con NestJS: Capa de Infraestructura|
 
 
 ## NestJS - 1️⃣ Primeros pasos en NestJS.
