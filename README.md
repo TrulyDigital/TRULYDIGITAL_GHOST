@@ -109,7 +109,7 @@ Los países donde se analizan el promedio e intención de búsquedas de palabras
 ||**2️⃣.4️⃣**|📂 **/nestjs/arquitectura-hexagonal/**|
 |||➖ `Menú item`|
 |||Arquitectura Hexagonal|
-||**2.4.1**|📂 **/nestjs/arquitectura-hexagonal/introduccion/**|
+||**2.4.1**|📂 **/nestjs/arquitectura-hexagonal/primeros-pasos/**|
 |||➖ `Artículo`|
 |||Arquitectura Hexagonal en NestJS: Separación de Responsabilidades|
 ||**2.4.2**|📂 **/nestjs/arquitectura-hexagonal/estructura-del-proyecto/**|
