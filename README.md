@@ -140,15 +140,19 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 |||Arquitectura Hexagonal en NestJS: Estructura del Proyecto|
 ||**2.4.3**|📂 **/nestjs/arquitectura-hexagonal/capa-de-dominio/** ❌|
 |||➖ `Artículo`|
+|||Capa de Dominio|
 |||NestJS y la Capa de Dominio: Aplicando Arquitectura Hexagonal Correctamente|
 ||**2.4.4**|📂 **/nestjs/arquitectura-hexagonal/capa-de-aplicacion/** ❌|
 |||➖ `Artículo`|
+|||Capa de Aplicación|
 |||NestJS y la Capa de Aplicación: Organizar la Lógica de Negocio|
 ||**2.4.5**|📂 **/nestjs/arquitectura-hexagonal/capa-de-interfaces/** ❌|
 |||➖ `Artículo`|
+|||Capa de Interfaces|
 |||NestJS y la Capa de Interfaces: Separando lo Externo de lo Interno|
 ||**2.4.6**|📂 **/nestjs/arquitectura-hexagonal/capa-de-infraestructura/** ❌|
 |||➖ `Artículo`|
+|||Capa de Infraestructura|
 |||NestJS y la Capa de Infraestructura: APIs y Bases de Datos Bien Encapsulados|
 
 
