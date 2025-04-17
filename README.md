@@ -171,7 +171,7 @@ Realizar un tutorial con la información general del framework:
 |:------------------------------:|
 |Principiante|
 
-**Google ADS**
+📢 **Google ADS**
 
 |keyword|searchs|url post|
 |:-----:|:-----:|:------:|
@@ -183,7 +183,7 @@ Realizar un tutorial con la información general del framework:
 |:-------------------------:|
 |5100|
 
-**ChatGTP**
+📢 **ChatGTP**
 
 
 
@@ -205,7 +205,7 @@ Realizar un tutorial con la explicación de como implementar un controlador, y t
 |:------------------------------:|
 |Principiante|
 
-**Google ADS**
+📢 **Google ADS**
 
 |keyword|searchs|url post|
 |:----:|:-----:|:------:|
@@ -216,7 +216,7 @@ Realizar un tutorial con la explicación de como implementar un controlador, y t
 |:-------------------------:|
 |100|
 
-**ChatGPT**
+📢 **ChatGPT**
 
 |#|Palabra Clave Long Tail|Dificultad Estimada (KD%)|Comentario|
 |-|-----------------------|-------------------------|----------|
