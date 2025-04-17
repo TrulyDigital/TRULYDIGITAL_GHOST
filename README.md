@@ -210,16 +210,16 @@ Realizar un tutorial con la explicación de como implementar un controlador, y t
 
 |#|Palabra Clave Long Tail|Dificultad Estimada (KD%)|Comentario|
 |-|-----------------------|-------------------------|----------|
-|1| cómo crear controladores en NestJS paso a paso|25%| Ideal para tutoriales básicos; baja competencia.|
-|2| diferencias entre controladores y servicios en NestJS|30%| Buena para comparativas; competencia moderada.|
-|3| estructura recomendada para controladores en NestJS|28%| Útil para guías de arquitectura; baja competencia.|
+|1| cómo crear controladores en NestJS paso a paso|25%|Ideal para tutoriales básicos; baja competencia.|
+|2| diferencias entre controladores y servicios en NestJS|30%|Buena para comparativas; competencia moderada.|
+|3| estructura recomendada para controladores en NestJS|28%|Útil para guías de arquitectura; baja competencia.|
 |4| ejemplo práctico de controlador REST en NestJS|35%|Atractiva para desarrolladores; competencia moderada.|
-|5| cómo manejar rutas dinámicas con controladores en NestJS|32%| Técnica específica; competencia moderada.|
-|6| controladores con parámetros y validaciones en NestJS|30%| Relevante para validaciones; baja competencia.|
-|7| controladores para API RESTful usando NestJS|33%| Enfocada en APIs; competencia moderada.|
-|8| mejores prácticas para controladores en proyectos NestJS grandes|27%| Dirigida a proyectos escalables; baja competencia.|
-|9| cómo usar decoradores en controladores NestJS|29% Técnica específica; baja competencia.|
-|10| anidar rutas y subcontroladores en NestJS con ejemplos|31%| Útil para estructuras complejas; competencia moderada.|
+|5| cómo manejar rutas dinámicas con controladores en NestJS|32%|Técnica específica; competencia moderada.|
+|6| controladores con parámetros y validaciones en NestJS|30%|Relevante para validaciones; baja competencia.|
+|7| controladores para API RESTful usando NestJS|33%|Enfocada en APIs; competencia moderada.|
+|8| mejores prácticas para controladores en proyectos NestJS grandes|27%|Dirigida a proyectos escalables; baja competencia.|
+|9| cómo usar decoradores en controladores NestJS|29%|Técnica específica; baja competencia.|
+|10| anidar rutas y subcontroladores en NestJS con ejemplos|31%|Útil para estructuras complejas; competencia moderada.|
 
 
 |Nivel de Dificultad del Artículo|
