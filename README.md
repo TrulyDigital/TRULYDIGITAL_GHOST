@@ -160,7 +160,7 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 |||Arquitectura Hexagonal con NestJS: Capa de Infraestructura|
 
 
-## NestJS - 2️⃣.1️⃣ NestJS desde Cero: Guía Completa para Aplicaciones Escalables.
+## 2️⃣.1️⃣ NestJS desde Cero: Guía Completa para Aplicaciones Escalables.
 
 Realizar un tutorial con la información general del framework:
 - Pre-requisitos para instalar NestJS
