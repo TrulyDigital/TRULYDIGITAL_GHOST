@@ -49,11 +49,11 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 ||**2️⃣.1️⃣**|📂 **/nestjs/tutorial-nestjs/** ❌|
 |||➖ `Menú item`|
 |||Primeros pasos|
-|||NestJS desde Cero: Aprende a Construir Aplicaciones Escalables|
+|||NestJS desde Cero: Guía Completa para Aplicaciones Escalables|
 ||**2.1.1**|📂 **/nestjs/tutorial-nestjs/controladores/** ❌|
 |||➖ `Artículo`|
 |||Controladores|
-|||NestJS desde Cero: Controladores, qué son, cómo funcionan y cómo crear uno|
+|||NestJS desde Cero: Guía Práctica de Controladores|
 ||**2.1.2**|📂 **/nestjs/tutorial-nestjs/inyeccion-de-dependencias/** ❌|
 |||➖ `Artículo`|
 |||Dependencias|
@@ -61,19 +61,19 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 ||**2.1.3**|📂 **/nestjs/tutorial-nestjs/modulos/** ❌|
 |||➖ `Artículo`|
 |||Módulos|
-|||NestJS desde Cero: Los Módulos son la clave para una Arquitectura Escalable|
+|||NestJS desde Cero: Módulos y Arquitectura Escalable|
 ||**2.1.4**|📂 **/nestjs/tutorial-nestjs/servicios/** ❌|
 |||➖ `Artículo`|
 |||Servicios|
-|||NestJS desde Cero: Servicios, qué son, cómo usarlos y por qué son esenciales|
+|||NestJS desde Cero: Servicios en NestJS explicados|
 ||**2.1.5**|📂 **/nestjs/tutorial-nestjs/http/** ❌|
 |||➖ `Artículo`|
 |||HTTP|
-|||NestJS desde Cero: Llamadas HTTP y lo que necesitas saber|
+|||NestJS desde Cero: Cómo hacer llamadas HTTP en el Backend|
 ||**2.1.6**|📂 **/nestjs/tutorial-nestjs/variables-de-entorno/** ❌|
 |||➖ `Artículo`|
 |||Configuración|
-|||NestJS desde Cero: Variables de Entorno para configurar tu App|
+|||NestJS desde Cero: Configuración con Variables de Entorno (.env)|
 ||**2.1.7**|📂 **/nestjs/tutorial-nestjs/interceptores/** ❌|
 |||➖ `Artículo`|
 |||Interceptores|
@@ -85,11 +85,11 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 ||**2.1.9**|📂 **/nestjs/tutorial-nestjs/excepciones/** ❌|
 |||➖ `Artículo`|
 |||Excepciones|
-|||NestJS desde Cero: Manejo de Excepciones para Backend Robusto|
+|||NestJS desde Cero: Manejo de Excepciones y Buenas Prácticas|
 ||**2.1.10**|📂 **/nestjs/tutorial-nestjs/validacion-de-request/** ❌|
 |||➖ `Artículo`|
 |||Validaciones|
-|||NestJS desde Cero: Validación de Datos, pipes y buenas prácticas|
+|||NestJS desde Cero: Validación de Datos con pipes en NestJS|
 ||**2️⃣.2️⃣**|📂 **/nestjs/bases-de-datos/** ❌|
 |||➖ `Menú item`|
 |||Bases de datos|
@@ -105,15 +105,15 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 ||**2.2.3**|📂 **/nestjs/bases-de-datos/nestjs-prisma/** ❌|
 |||➖ `Artículo`|
 |||TypeORM Prisma|
-|||Bases de datos en NestJS y TypeORM: Prisma|
+|||Bases de datos en NestJS: Prisma|
 ||**2.2.4**|📂 **/nestjs/bases-de-datos/nestjs-mongodb/** ❌|
 |||➖ `Artículo`|
 |||TypeORM Mongo|
-|||Bases de datos en NestJS y TypeORM: MongoDB|
+|||Bases de datos en NestJS: MongoDB y Mongoose|
 ||**2️⃣.3️⃣**|📂 **/nestjs/microservicios/** ❌|
 |||➖ `Menú item`|
 |||Microservicios|
-|||Microservicios en NestJS: Cómo Empezar|
+|||Microservicios en NestJS: Introducción y Primeros Pasos|
 ||**2.3.1**|📂 **/nestjs/microservicios/arquitectura-de-microservicios/** ❌|
 |||➖ `Artículo`|
 |||Arquitectura|
@@ -121,7 +121,7 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 ||**2.3.2**|📂 **/nestjs/microservicios/rabbitmq/** ❌|
 |||➖ `Artículo`|
 |||RabbitMQ|
-|||Microservicios en NestJS: RabbitMQ y Comunicación Eficientemente|
+|||Microservicios en NestJS: Comunicación Eficientemente con RabbitMQ|
 ||**2.3.3**|📂 **/nestjs/microservicios/kafka/** ❌|
 |||➖ `Artículo`|
 |||Kafka|
@@ -137,11 +137,11 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 ||**2.4.1**|📂 **/nestjs/arquitectura-hexagonal/primeros-pasos/** ❌|
 |||➖ `Artículo`|
 |||Introducción|
-|||Arquitectura Hexagonal con NestJS: Primeros pasos|
+|||Arquitectura Hexagonal con NestJS: Introducción y Primeros Pasos|
 ||**2.4.2**|📂 **/nestjs/arquitectura-hexagonal/estructura-del-proyecto/** ❌|
 |||➖ `Artículo`|
 |||Estructura Proyecto|
-|||Arquitectura Hexagonal en NestJS: Estructura del Proyecto|
+|||Arquitectura Hexagonal con NestJS: Estructura del Proyecto|
 ||**2.4.3**|📂 **/nestjs/arquitectura-hexagonal/capa-de-dominio/** ❌|
 |||➖ `Artículo`|
 |||Capa de Dominio|
@@ -160,7 +160,7 @@ Estructura general del menú de navegación para la categoría **NestJS**, items
 |||Arquitectura Hexagonal con NestJS: Capa de Infraestructura|
 
 
-## NestJS - 1️⃣ Primeros pasos en NestJS.
+## NestJS - 2️⃣.1️⃣ NestJS desde Cero: Guía Completa para Aplicaciones Escalables.
 
 Realizar un tutorial con la información general del framework:
 - Pre-requisitos para instalar NestJS
