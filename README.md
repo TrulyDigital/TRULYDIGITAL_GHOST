@@ -167,10 +167,14 @@ Realizar un tutorial con la información general del framework:
 - Como instalar NestJS y sus herramientas de consola
 - Crear la primera aplicación/proyecto NestJS
 
-Incluir las siguientes palabras clave:
+|Nivel de Dificultad del Artículo|
+|:------------------------------:|
+|Principiante|
+
+**Google ADS**
 
 |keyword|searchs|url post|
-|:----:|:-----:|:------:|
+|:-----:|:-----:|:------:|
 |nestjs|5000|/nestjs/tutorial-nestjs/|
 |js nest|50|/nestjs/tutorial-nestjs/|
 |tutorial nestjs|50|/nestjs/tutorial-nestjs/|
@@ -179,9 +183,9 @@ Incluir las siguientes palabras clave:
 |:-------------------------:|
 |5100|
 
-|Nivel de Dificultad del Artículo|
-|:------------------------------:|
-|Principiante|
+**ChatGTP**
+
+
 
 ## 2️⃣.1️⃣.1️⃣ NestJS desde Cero: Guía Práctica de Controladores
 
@@ -197,6 +201,12 @@ Realizar un tutorial con la explicación de como implementar un controlador, y t
 - Introducción a DTOs
 - Introducción a Swagger
 
+|Nivel de Dificultad del Artículo|
+|:------------------------------:|
+|Principiante|
+
+**Google ADS**
+
 |keyword|searchs|url post|
 |:----:|:-----:|:------:|
 |api rest nestjs|50|/nestjs/tutorial-nestjs/controladores/|
@@ -206,22 +216,22 @@ Realizar un tutorial con la explicación de como implementar un controlador, y t
 |:-------------------------:|
 |100|
 
-### 🔍 Palabras Clave Long Tail para NestJS + Controladores
+**ChatGPT**
 
 |#|Palabra Clave Long Tail|Dificultad Estimada (KD%)|Comentario|
 |-|-----------------------|-------------------------|----------|
 |1| cómo crear controladores en NestJS paso a paso|25%|Ideal para tutoriales básicos; baja competencia.|
-|2| diferencias entre controladores y servicios en NestJS|30%|Buena para comparativas; competencia moderada.|
-|3| estructura recomendada para controladores en NestJS|28%|Útil para guías de arquitectura; baja competencia.|
-|4| ejemplo práctico de controlador REST en NestJS|35%|Atractiva para desarrolladores; competencia moderada.|
-|5| cómo manejar rutas dinámicas con controladores en NestJS|32%|Técnica específica; competencia moderada.|
-|6| controladores con parámetros y validaciones en NestJS|30%|Relevante para validaciones; baja competencia.|
-|7| controladores para API RESTful usando NestJS|33%|Enfocada en APIs; competencia moderada.|
-|8| mejores prácticas para controladores en proyectos NestJS grandes|27%|Dirigida a proyectos escalables; baja competencia.|
-|9| cómo usar decoradores en controladores NestJS|29%|Técnica específica; baja competencia.|
-|10| anidar rutas y subcontroladores en NestJS con ejemplos|31%|Útil para estructuras complejas; competencia moderada.|
+|2| estructura recomendada para controladores en NestJS|28%|Útil para guías de arquitectura; baja competencia.|
+|3| ejemplo práctico de controlador REST en NestJS|35%|Atractiva para desarrolladores; competencia moderada.|
+|4| cómo manejar rutas dinámicas con controladores en NestJS|32%|Técnica específica; competencia moderada.|
+|5| controladores con parámetros y validaciones en NestJS|30%|Relevante para validaciones; baja competencia.|
+|6| controladores para API RESTful usando NestJS|33%|Enfocada en APIs; competencia moderada.|
+|7| mejores prácticas para controladores en proyectos NestJS grandes|27%|Dirigida a proyectos escalables; baja competencia.|
+|8| cómo usar decoradores en controladores NestJS|29%|Técnica específica; baja competencia.|
+|9| anidar rutas y subcontroladores en NestJS con ejemplos|31%|Útil para estructuras complejas; competencia moderada.|
 
+## 2️⃣.1️⃣.4️⃣ NestJS desde Cero: Servicios en NestJS explicados
 
-|Nivel de Dificultad del Artículo|
-|:------------------------------:|
-|Principiante|
+|#|Palabra Clave Long Tail|Dificultad Estimada (KD%)|Comentario|
+|-|-----------------------|-------------------------|----------|
+|9| diferencias entre controladores y servicios en NestJS|30%|Buena para comparativas; competencia moderada.|
