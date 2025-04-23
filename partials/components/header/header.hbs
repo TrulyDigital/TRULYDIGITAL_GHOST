@@ -31,7 +31,9 @@
 
                     {{> "components/header/logo/logo"}}
 
+                    {{!--
                     {{> "components/networks/networks"}}
+                    --}}
 
                     <a href="/contacto">
                         Contáctanos
@@ -40,8 +42,10 @@
                     <span>{{meta_title}}</span>
 
                     <hr>
-
+                    
+                    {{!-- 
                     {{> "components/payment/payment"}}
+                    --}}
 
                 </footer>
             </nav>
@@ -53,6 +57,30 @@
             <button>
                 {{> "components/search/search"}}
             </button>
+
+            <a href="https://github.com/TrulyDigital" target="_blank">
+                <img 
+                    class="" 
+                    src="{{asset "images/navigation/github-48x48-small.webp"}}" 
+                    alt="Github logo" 
+                />
+            </a>
+
+            <a href="">
+                <img 
+                    class="" 
+                    src="{{asset "images/navigation/linkedin-48x48-small.webp"}}" 
+                    alt="Linkedin logo" 
+                />
+            </a>
+
+            <a href="">
+                <img 
+                    class="" 
+                    src="{{asset "images/navigation/x-before-twitter-48x48-small.webp"}}" 
+                    alt="X begore twitter logo" 
+                />
+            </a>
 
             <button class="header__actions-burguer" aria-label="Abrir menú mobile" id="CLICK_OPEN_MOBILE_NAV">
                 {{> "icons/burger"}} 

@@ -3,526 +3,78 @@
 {{else}}
 <ul class="nav__menu-list">
     <li class="nav__menu group">
-        <div class="nav__menu-inner" id="CLICK_MENU_PLEGABLES">
+        <div class="nav__menu-inner" id="CLICK_MENU_ITEM_1">
             <span class="nav__menu-inner-title">
                 NestJS
             </span>
             <img 
                 class="nav__menu-inner-icon" 
                 src="{{asset "images/navigation/desplegar-menu.webp"}}" 
-                alt="Esto es un menu desplegable con mas sub-menus." 
+                alt="Menú desplegable de NestJS" 
             />
         </div>
-        <div class="nav__submenu-container nav__submenu-container--width-2-cols nav__submenu-container--hidden" id="OBSERVER_SUB_MENU_PLEGABLES">
+        <div class="nav__submenu-container nav__submenu-container--width-2-cols nav__submenu-container--hidden" id="OBSERVER_SUB_MENU_ITEM_1">
             <ul class="nav__submenu-list nav__submenu-list--2-cols">
                 <li class="nav__submenu">
-                    <a href="/tendedero-de-ropa-plegable/">
+                    <a href="/nestjs/tutoriales/">
                         <img 
-                            src="{{asset "images/navigation/plegable.webp"}}" 
-                            alt="Tendedero de ropa plegable"
+                            src="{{asset "images/navigation/nestjs-48x48-small.webp"}}" 
+                            alt="Conceptos básicos y fundamentos del framework NestJS"
                         >
                         <span>
                             <span>
-                                Primeros pasos en NestJS
+                                Conceptos Básicos
                             </span>
                             <span>
-                                Introducción al framework y crea tu primera aplicación.
+                                Introducción al framework NestJS y sus fundamentos.
                             </span>
                         </span>
                     </a>
                 </li>
                 <li class="nav__submenu">
-                    <a href="/tendedero-de-ropa-plegable/tendedero-de-ropa-plegable-de-piso/">
+                    <a href="/nestjs/bases-de-datos/">
                         <img 
-                            src="{{asset "images/navigation/para-piso.webp"}}" 
-                            alt="Tendedero de ropa plegable de piso"
+                            src="{{asset "images/navigation/nestjs-48x48-small.webp"}}" 
+                            alt="Integración con bases de datos en NestJS"
                         >
                         <span>
                             <span>
-                                Arquitectura Hexagonal en NestJS
+                                Bases de Datos
                             </span>
                             <span>
-                                Estructura de tu proyecto para que sea escalable y mantenible.
+                                Integración de NestJS con las bases de datos mas utilizadas en la industria.
                             </span>
                         </span>
                     </a>
                 </li>
                 <li class="nav__submenu">
-                    <a href="/tendedero-de-ropa-plegable/tendederos-de-pared/">
+                    <a href="/nestjs/microservicios/">
                         <img 
-                            src="{{asset "images/navigation/para-pared.webp"}}" 
-                            alt="Tendedero plegable de pared"
+                            src="{{asset "images/navigation/nestjs-48x48-small.webp"}}" 
+                            alt="Microservicios en NestJS"
                         >
                         <span>
                             <span>
-                                NestJS y MySQL
+                                Microservicios
                             </span>
                             <span>
-                                Conecta tu aplicación con una base de datos relacional.
+                                Arquitecturas de microservicios oriendas a mensajes, eventos y sus protocolos.
                             </span>
                         </span>
                     </a>
                 </li>
                 <li class="nav__submenu">
-                    <a href="/">
+                    <a href="/nestjs/arquitectura-hexagonal/">
                         <img 
-                            src="{{asset "images/navigation/material-aluminio.webp"}}" 
-                            alt="Tendederos de aluminio plegable"
+                            src="{{asset "images/navigation/nestjs-48x48-small.webp"}}" 
+                            alt="Arquitectura Hexagonal en NestJS"
                         >
                         <span>
                             <span>
-                                NestJS y PostgreSQL
+                                Arquitectura Hexagonal
                             </span>
                             <span>
-                                Conecta tu aplicación con una base de datos relacional.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/">
-                        <img 
-                            src="{{asset "images/navigation/por-niveles.webp"}}" 
-                            alt="Tendederos plegables por niveles."
-                        >
-                        <span>
-                            <span>
-                                Microservicios en NestJS
-                            </span>
-                            <span>
-                                Conoce los patrones de arquitectura de microservicios
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/">
-                        <img 
-                            src="{{asset "images/navigation/material-metalico.webp"}}" 
-                            alt=""
-                        />
-                        <span>
-                            <span>
-                                Prisma ORM en NestJS
-                            </span>
-                            <span>
-                                Uno de los ORM mas aclamados por la comunidad.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/">
-                        <img 
-                            src="{{asset "images/navigation/material-acero.webp"}}" 
-                            alt="Tendedero plegable en Acero Inoxidable"
-                        />
-                        <span>
-                            <span>
-                                Pruebas unitarias con Jest y NestJS
-                            </span>
-                            <span>
-                                El arte de testear código con el framework NestJS.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/">
-                        <img 
-                            src="{{asset "images/navigation/material-acero.webp"}}" 
-                            alt="Tendedero plegable en Acero Inoxidable"
-                        />
-                        <span>
-                            <span>
-                                TypeScript
-                            </span>
-                            <span>
-                                Guia detallada sobre el lenguaje.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-            </ul>
-        </div>    
-    </li>
-    <li class="nav__menu group">
-        <div class="nav__menu-inner" id="CLICK_MENU_PLEGABLES">
-            <span class="nav__menu-inner-title">
-                SpringBoot
-            </span>
-            <img 
-                class="nav__menu-inner-icon" 
-                src="{{asset "images/navigation/desplegar-menu.webp"}}" 
-                alt="Esto es un menu desplegable con mas sub-menus." 
-            />
-        </div>
-        <div class="nav__submenu-container nav__submenu-container--width-2-cols nav__submenu-container--hidden" id="OBSERVER_SUB_MENU_PLEGABLES">
-            <ul class="nav__submenu-list nav__submenu-list--2-cols">
-                <li class="nav__submenu">
-                    <a href="/tendedero-de-ropa-plegable/">
-                        <img 
-                            src="{{asset "images/navigation/plegable.webp"}}" 
-                            alt="Tendedero de ropa plegable"
-                        >
-                        <span>
-                            <span>
-                                Primeros pasos en NestJS
-                            </span>
-                            <span>
-                                Introducción al framework y crea tu primera aplicación.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/tendedero-de-ropa-plegable/tendedero-de-ropa-plegable-de-piso/">
-                        <img 
-                            src="{{asset "images/navigation/para-piso.webp"}}" 
-                            alt="Tendedero de ropa plegable de piso"
-                        >
-                        <span>
-                            <span>
-                                Arquitectura Hexagonal en NestJS
-                            </span>
-                            <span>
-                                Estructura de tu proyecto para que sea escalable y mantenible.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/tendedero-de-ropa-plegable/tendederos-de-pared/">
-                        <img 
-                            src="{{asset "images/navigation/para-pared.webp"}}" 
-                            alt="Tendedero plegable de pared"
-                        >
-                        <span>
-                            <span>
-                                NestJS y MySQL
-                            </span>
-                            <span>
-                                Conecta tu aplicación con una base de datos relacional.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/">
-                        <img 
-                            src="{{asset "images/navigation/material-aluminio.webp"}}" 
-                            alt="Tendederos de aluminio plegable"
-                        >
-                        <span>
-                            <span>
-                                NestJS y PostgreSQL
-                            </span>
-                            <span>
-                                Conecta tu aplicación con una base de datos relacional.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/">
-                        <img 
-                            src="{{asset "images/navigation/por-niveles.webp"}}" 
-                            alt="Tendederos plegables por niveles."
-                        >
-                        <span>
-                            <span>
-                                Microservicios en NestJS
-                            </span>
-                            <span>
-                                Conoce los patrones de arquitectura de microservicios
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/">
-                        <img 
-                            src="{{asset "images/navigation/material-metalico.webp"}}" 
-                            alt=""
-                        />
-                        <span>
-                            <span>
-                                Prisma ORM en NestJS
-                            </span>
-                            <span>
-                                Uno de los ORM mas aclamados por la comunidad.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/">
-                        <img 
-                            src="{{asset "images/navigation/material-acero.webp"}}" 
-                            alt="Tendedero plegable en Acero Inoxidable"
-                        />
-                        <span>
-                            <span>
-                                Pruebas unitarias con Jest y NestJS
-                            </span>
-                            <span>
-                                El arte de testear código con el framework NestJS.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-            </ul>
-        </div>    
-    </li>
-    <li class="nav__menu group">
-        <div class="nav__menu-inner" id="CLICK_MENU_PLEGABLES">
-            <span class="nav__menu-inner-title">
-                Arquitectura
-            </span>
-            <img 
-                class="nav__menu-inner-icon" 
-                src="{{asset "images/navigation/desplegar-menu.webp"}}" 
-                alt="Esto es un menu desplegable con mas sub-menus." 
-            />
-        </div>
-        <div class="nav__submenu-container nav__submenu-container--width-2-cols nav__submenu-container--hidden" id="OBSERVER_SUB_MENU_PLEGABLES">
-            <ul class="nav__submenu-list nav__submenu-list--2-cols">
-                <li class="nav__submenu">
-                    <a href="/tendedero-de-ropa-plegable/">
-                        <img 
-                            src="{{asset "images/navigation/plegable.webp"}}" 
-                            alt="Tendedero de ropa plegable"
-                        >
-                        <span>
-                            <span>
-                                Primeros pasos en NestJS
-                            </span>
-                            <span>
-                                Introducción al framework y crea tu primera aplicación.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/tendedero-de-ropa-plegable/tendedero-de-ropa-plegable-de-piso/">
-                        <img 
-                            src="{{asset "images/navigation/para-piso.webp"}}" 
-                            alt="Tendedero de ropa plegable de piso"
-                        >
-                        <span>
-                            <span>
-                                Arquitectura Hexagonal en NestJS
-                            </span>
-                            <span>
-                                Estructura de tu proyecto para que sea escalable y mantenible.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/tendedero-de-ropa-plegable/tendederos-de-pared/">
-                        <img 
-                            src="{{asset "images/navigation/para-pared.webp"}}" 
-                            alt="Tendedero plegable de pared"
-                        >
-                        <span>
-                            <span>
-                                NestJS y MySQL
-                            </span>
-                            <span>
-                                Conecta tu aplicación con una base de datos relacional.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/">
-                        <img 
-                            src="{{asset "images/navigation/material-aluminio.webp"}}" 
-                            alt="Tendederos de aluminio plegable"
-                        >
-                        <span>
-                            <span>
-                                NestJS y PostgreSQL
-                            </span>
-                            <span>
-                                Conecta tu aplicación con una base de datos relacional.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/">
-                        <img 
-                            src="{{asset "images/navigation/por-niveles.webp"}}" 
-                            alt="Tendederos plegables por niveles."
-                        >
-                        <span>
-                            <span>
-                                Microservicios en NestJS
-                            </span>
-                            <span>
-                                Conoce los patrones de arquitectura de microservicios
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/">
-                        <img 
-                            src="{{asset "images/navigation/material-metalico.webp"}}" 
-                            alt=""
-                        />
-                        <span>
-                            <span>
-                                Prisma ORM en NestJS
-                            </span>
-                            <span>
-                                Uno de los ORM mas aclamados por la comunidad.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/">
-                        <img 
-                            src="{{asset "images/navigation/material-acero.webp"}}" 
-                            alt="Tendedero plegable en Acero Inoxidable"
-                        />
-                        <span>
-                            <span>
-                                Pruebas unitarias con Jest y NestJS
-                            </span>
-                            <span>
-                                El arte de testear código con el framework NestJS.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-            </ul>
-        </div>    
-    </li>
-    <li class="nav__menu group">
-        <div class="nav__menu-inner" id="CLICK_MENU_PLEGABLES">
-            <span class="nav__menu-inner-title">
-                Docker
-            </span>
-            <img 
-                class="nav__menu-inner-icon" 
-                src="{{asset "images/navigation/desplegar-menu.webp"}}" 
-                alt="Esto es un menu desplegable con mas sub-menus." 
-            />
-        </div>
-        <div class="nav__submenu-container nav__submenu-container--width-2-cols nav__submenu-container--hidden" id="OBSERVER_SUB_MENU_PLEGABLES">
-            <ul class="nav__submenu-list nav__submenu-list--2-cols">
-                <li class="nav__submenu">
-                    <a href="/tendedero-de-ropa-plegable/">
-                        <img 
-                            src="{{asset "images/navigation/plegable.webp"}}" 
-                            alt="Tendedero de ropa plegable"
-                        >
-                        <span>
-                            <span>
-                                Primeros pasos en NestJS
-                            </span>
-                            <span>
-                                Introducción al framework y crea tu primera aplicación.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/tendedero-de-ropa-plegable/tendedero-de-ropa-plegable-de-piso/">
-                        <img 
-                            src="{{asset "images/navigation/para-piso.webp"}}" 
-                            alt="Tendedero de ropa plegable de piso"
-                        >
-                        <span>
-                            <span>
-                                Arquitectura Hexagonal en NestJS
-                            </span>
-                            <span>
-                                Estructura de tu proyecto para que sea escalable y mantenible.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/tendedero-de-ropa-plegable/tendederos-de-pared/">
-                        <img 
-                            src="{{asset "images/navigation/para-pared.webp"}}" 
-                            alt="Tendedero plegable de pared"
-                        >
-                        <span>
-                            <span>
-                                NestJS y MySQL
-                            </span>
-                            <span>
-                                Conecta tu aplicación con una base de datos relacional.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/">
-                        <img 
-                            src="{{asset "images/navigation/material-aluminio.webp"}}" 
-                            alt="Tendederos de aluminio plegable"
-                        >
-                        <span>
-                            <span>
-                                NestJS y PostgreSQL
-                            </span>
-                            <span>
-                                Conecta tu aplicación con una base de datos relacional.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/">
-                        <img 
-                            src="{{asset "images/navigation/por-niveles.webp"}}" 
-                            alt="Tendederos plegables por niveles."
-                        >
-                        <span>
-                            <span>
-                                Microservicios en NestJS
-                            </span>
-                            <span>
-                                Conoce los patrones de arquitectura de microservicios
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/">
-                        <img 
-                            src="{{asset "images/navigation/material-metalico.webp"}}" 
-                            alt=""
-                        />
-                        <span>
-                            <span>
-                                Prisma ORM en NestJS
-                            </span>
-                            <span>
-                                Uno de los ORM mas aclamados por la comunidad.
-                            </span>
-                        </span>
-                    </a>
-                </li>
-                <li class="nav__submenu">
-                    <a href="/">
-                        <img 
-                            src="{{asset "images/navigation/material-acero.webp"}}" 
-                            alt="Tendedero plegable en Acero Inoxidable"
-                        />
-                        <span>
-                            <span>
-                                Pruebas unitarias con Jest y NestJS
-                            </span>
-                            <span>
-                                El arte de testear código con el framework NestJS.
+                                Aplicaciones escalables, mantenibles, porque usarlo y casos de uso.
                             </span>
                         </span>
                     </a>

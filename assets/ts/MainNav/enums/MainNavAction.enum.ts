@@ -1,0 +1,16 @@
+//
+export enum MainNavActionEnum {
+    //
+    INIT,
+    //
+    CLICK_OPEN_MOBILE_NAV = 'CLICK_OPEN_MOBILE_NAV',
+    CLICK_CLOSE_MOBILE_NAV = 'CLICK_CLOSE_MOBILE_NAV',
+    //
+    CLICK_OPEN_MOBILE_NAV_FIXED = 'CLICK_OPEN_MOBILE_NAV_FIXED',
+    //
+    CLICK_MENU_ITEM_1 = 'CLICK_MENU_ITEM_1', // NestJS
+    //
+    OBSERVER_SUB_MENU_ITEM_1 = 'OBSERVER_SUB_MENU_ITEM_1', // Todos los sub-menus
+    //
+    OBSERVER_NAV_MOBILE = 'OBSERVER_NAV_MOBILE',    
+}

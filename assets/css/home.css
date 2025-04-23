@@ -1,0 +1,44 @@
+.home{
+    @apply
+    /* mobile */
+    flex
+    justify-center
+    /* desktop */
+    lg:justify-center
+}
+
+.home__title {
+    font-family: 'Inter';
+    @apply
+    /* mobile */
+    flex
+    flex-col
+    font-bold
+    text-4xl
+    w-11/12
+    mt-8
+    /* desktop */
+    lg:text-5xl
+    lg:items-center
+}
+
+.home__title > div:nth-child(1) {
+    @apply
+    /* mobile */
+    flex
+    flex-col
+    text-fuchsia-900
+    /* desktop */
+    lg:flex-row
+}
+
+.home__title > div:nth-child(2) {
+    @apply
+    /* mobile */
+    flex
+    flex-col
+    text-slate-500
+    mt-2
+    /* desktop */
+    lg:flex-row
+}

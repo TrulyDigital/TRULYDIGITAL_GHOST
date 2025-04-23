@@ -24,7 +24,7 @@
     w-11/12
     justify-between 
     /* desktop */
-    lg:w-10/12
+    lg:w-11/12
 }
 
 .header__nav-desktop-container{
@@ -41,6 +41,15 @@
     hover:opacity-90
     /* desktop */
     lg:mr-5
+}
+
+.header__logo > a {
+    @apply
+    bg-fuchsia-700
+    text-white
+    px-3
+    py-1
+    rounded
 }
 
 .header__nav-desktop{
@@ -140,7 +149,17 @@
     /* mobile */
     flex
     items-center
-    gap-12
+    gap-5
+    /* desktop */
+}
+
+.header__actions > a {
+    @apply
+    /* mobile */
+    w-8
+    hidden
+    /* desktop */
+    lg:block
 }
 
 .header__actions-burguer{

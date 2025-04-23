@@ -1,5 +1,7 @@
 @import url('./partials/components/header/style.css');
+@import url('./partials/components/search-toggle/style.css');
 @import url('./partials/navigation/style.css');
+@import url('./home.css');
 
 @tailwind base;
 @tailwind components;

@@ -1,0 +1,25 @@
+.gh-search{
+    @apply
+    /* mobile */
+    flex
+    flex-row
+    items-center
+    justify-center
+    gap-1
+    pt-1
+    pb-1
+    pr-2
+    pl-2
+    text-neutral-800
+    bg-white
+    transition-all
+    duration-300
+    /* desktop */
+}
+
+.gh-icon-button > svg {
+    @apply
+    /* mobile */
+    w-6
+    /* desktop */
+}
