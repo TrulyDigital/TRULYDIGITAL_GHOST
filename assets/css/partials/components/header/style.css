@@ -1,6 +1,6 @@
 .header {
     @apply
-    /* mobile */
+    /* sm */
     flex
     justify-center
     items-center
@@ -9,7 +9,7 @@
     border-b
     border-b-gray-200
     md:h-[6vh]
-    /* desktop */
+    /* lg */
     lg:border-none
     lg:h-[12vh]
     xl:h-[8vh]
@@ -18,18 +18,18 @@
 
 .header__container{
     @apply
-    /* mobile */
+    /* sm */
     flex
     flex-row
     w-11/12
     justify-between 
-    /* desktop */
+    /* lg */
     lg:w-11/12
 }
 
 .header__nav-desktop-container{
     @apply
-    /* mobile */
+    /* sm */
     flex
     flex-row
     items-center
@@ -37,9 +37,9 @@
 
 .header__logo {
     @apply
-    /* mobile */
+    /* sm */
     hover:opacity-90
-    /* desktop */
+    /* lg */
     lg:mr-5
 }
 
@@ -54,14 +54,15 @@
 
 .header__nav-desktop{
     @apply
-    /* desktop */
+    /* sm */
     hidden
+    /* lg */
     lg:block
 }
 
 .header__nav-mobile-container {
     @apply
-    /* mobile */
+    /* sm */
     h-[100vh]
     fixed
     z-10
@@ -77,13 +78,13 @@
 
 .header__nav-mobile-container--hidden{
     @apply
-    /* mobile */
+    /* sm */
     w-0
 }
 
 .header__nav-mobile-container--visible{
     @apply
-    /* mobile */
+    /* sm */
     w-full
     flex
     items-center
@@ -91,7 +92,7 @@
 
 .header__nav-mobile-header{
     @apply
-    /* mobile */
+    /* sm */
     flex
     flex-row
     justify-between
@@ -105,7 +106,7 @@
 
 .header__nav-mobile {
     @apply
-    /* mobile */
+    /* sm */
     w-11/12
     h-[92vh]
     md:h-[94vh]
@@ -146,25 +147,29 @@
 
 .header__actions {
     @apply
-    /* mobile */
+    /* sm */
     flex
     items-center
     gap-5
-    /* desktop */
 }
 
 .header__actions > a {
     @apply
-    /* mobile */
+    /* sm */
     w-8
     hidden
-    /* desktop */
+    /* lg */
     lg:block
+}
+
+.header__actions_svg-icon{
+    @apply
+    /* sm */
+    hover:bg-fuchsia-400
 }
 
 .header__actions-burguer{
     @apply
-    /* mobile */
-    /* desktop */
+    /* lg */
     lg:hidden
 }

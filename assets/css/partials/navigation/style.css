@@ -1,30 +1,30 @@
 .nav__menu-list{
     font-family: 'Inter';
     @apply
-    /* mobile */
+    /* sm */
     flex
     flex-col
     pt-4
-    /* desktop */
+    /* lg */
     lg:flex-row
     lg:pt-0
 }
 
 .nav__menu{
     @apply
-    /* mobile */
+    /* sm */
     flex
     flex-col
     cursor-pointer
     relative
-    /* desktop */
+    /* lg */
     lg:items-center
     lg:ml-5
 }
 
 .nav__menu-inner {
     @apply
-    /* mobile */
+    /* sm */
     flex
     items-center
     mt-4
@@ -32,7 +32,7 @@
     border-b-pink-300
     justify-between
     pb-1
-    /* desktop */
+    /* lg */
     lg:mt-0
     lg:border-0
     lg:pb-0
@@ -41,22 +41,22 @@
 
 .nav__menu-inner-title{
     @apply
-    /* mobile */
+    /* sm */
     text-base
     text-gray-800
-    /* desktop */
+    /* lg */
     /*lg:group-hover:text-fuchsia-600*/
 }
 
 .nav__menu-inner-icon{
     @apply
-    /* mobile */
+    /* sm */
     ml-2 
     h-[6px] 
     transform 
     transition-transform 
     duration-300
-    /* desktop */
+    /* lg */
     lg:group-hover:-rotate-90
 }
 
@@ -67,12 +67,12 @@
 
 .nav__submenu-container {
     @apply
-    /* mobile */
+    /* sm */
     pt-4
     transition-all 
     duration-300 
     ease-in-out 
-    /* desktop */
+    /* lg */
     lg:absolute
     lg:top-full
     lg:invisible
@@ -85,23 +85,23 @@
 
 .nav__submenu-container--width-1-col{
     @apply
-    /* mobile */
+    /* sm */
     w-full
-    /* desktop */
+    /* lg */
     lg:w-[320px]
 }
 
 .nav__submenu-container--width-2-cols{
     @apply
-    /* mobile */
+    /* sm */
     w-full
-    /* desktop */
+    /* lg */
     lg:w-[576px] 
 }
 
 .nav__submenu-container--hidden {
     @apply
-    /* mobile */
+    /* sm */
     max-h-0
     invisible
     opacity-0
@@ -109,7 +109,7 @@
 
 .nav_submenu-container--visible {
     @apply
-    /* mobile */
+    /* sm */
     max-h-[100vh]
     visible
     opacity-100
@@ -118,7 +118,7 @@
 
 .nav__submenu-list {
     @apply
-    /* desktop */
+    /* lg */
     lg:border
     lg:shadow-2xl
     lg:bg-white
@@ -129,34 +129,34 @@
 
 .nav__submenu-list--1-col {
     @apply
-    /* desktop */
+    /* lg */
     lg:flex 
     lg:flex-col
 }
 
 .nav__submenu-list--2-cols {
     @apply
-    /* desktop */
+    /* lg */
     lg:grid 
     lg:grid-cols-2
 }
 
 .nav__submenu {
     @apply
-    /* mobile */
+    /* sm */
     hover:bg-gray-100
     hover:rounded-md
     pt-2
     pb-2
     border-b
-    /* desktop */
+    /* lg */
     lg:p-2
     lg:border-0
 }
 
 .nav__submenu > a {
     @apply
-    /* mobile */
+    /* sm */
     flex 
     flex-row 
     items-center
@@ -165,18 +165,18 @@
 
 .nav__submenu > a > img {
     @apply
-    /* mobile */
+    /* sm */
     h-6 
     w-6
     self-start
     p-1
-    /* desktop */
+    /* lg */
     mt-1
 }
 
 .nav__submenu > a > span {
     @apply
-    /* mobile */
+    /* sm */
     flex 
     flex-col 
     gap-1
@@ -185,11 +185,11 @@
 
 .nav__submenu > a > span > span:nth-child(1) {
     @apply
-    /* mobile */
+    /* sm */
     text-base
     font-bold
     text-gray-800
-    /* desktop */
+    /* lg */
     lg:text-lg
 }
   

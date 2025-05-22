@@ -1,44 +1,87 @@
 .home{
     @apply
-    /* mobile */
+    /* sm */
     flex
+    flex-col
     justify-center
-    /* desktop */
+    /* lg */
     lg:justify-center
 }
 
 .home__title {
     font-family: 'Inter';
     @apply
-    /* mobile */
+    /* sm */
     flex
     flex-col
     font-bold
     text-4xl
     w-11/12
     mt-8
-    /* desktop */
+    /* lg */
     lg:text-5xl
     lg:items-center
 }
 
 .home__title > div:nth-child(1) {
     @apply
-    /* mobile */
+    /* sm */
     flex
     flex-col
     text-fuchsia-900
-    /* desktop */
+    /* lg */
     lg:flex-row
 }
 
 .home__title > div:nth-child(2) {
     @apply
-    /* mobile */
+    /* sm */
     flex
     flex-col
     text-slate-500
     mt-2
-    /* desktop */
+    /* lg */
     lg:flex-row
+}
+
+.home__hero {
+    @apply
+    /* sm */
+    mt-14
+}
+
+.home__description {
+    @apply
+    /* sm */
+    m-auto
+    w-11/12
+    text-slate-600
+    font-bold
+    /*lg */
+    lg:text-4xl
+    lg:pt-10
+    lg:pb-10
+}
+
+.home__description > p {
+    @apply
+    /* sm */
+    /* lg */
+    lg:mt-7
+    lg:leading-snug
+}
+
+.home__description > p span {
+    @apply
+    /* sm  */
+    text-rose-500
+    /* lg */
+}
+
+.home__description-cta {
+    @apply
+    /* sm */
+    hover:text-fuchsia-700
+    text-fuchsia-600
+    /* lg */
 }
