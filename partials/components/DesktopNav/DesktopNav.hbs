@@ -1,0 +1,173 @@
+<div class="desktop-nav__mobile-buttons">
+    <button 
+        class="menu-grid__button"
+        id="idMenuGridButton"
+    >
+        {{> "icons/MenuGridSvg/MenuGridSvg"}}
+    </button>
+
+    <a 
+        href="/"
+        class="logo"
+    >
+        {{> "icons/LogoSvg/LogoSvg"}}
+        <span>TrulyDigital</span>
+    </a>
+
+    <button class="search-mobile__button">
+        {{> "icons/SearchSvg/SearchSvg"}}
+    </button>
+
+    <button 
+        class="burguer-primary__button"
+        id="idBurguerPrimaryButton"
+    >
+        {{> "icons/BurguerPrimarySvg/BurguerPrimarySvg"}}
+    </button>
+</div>
+
+<ul class="desktop-nav__menu">
+    <li>
+        <div 
+            class="
+                desktop-nav__menu-and-submenus
+                group
+            "
+        >
+            <div>
+                <span>NestJS</span>
+                {{> "icons/DownSvg/DownSvg"}}
+            </div>
+            <div class="desktop-nav__submenus">
+                <ul>
+                    <li class="desktop-nav__submenu-item">
+                        <a href="/nestjs/tutoriales">
+                            <div>
+                                <img 
+                                    src="{{asset "images/nestjs-48x48-small.webp"}}" 
+                                    alt="icono nestjs"
+                                >
+                            </div>
+                            <div>
+                                <span>
+                                    Conceptos Básicos
+                                </span>
+                                <span>
+                                    Introducción al framework NestJS y sus fundamentos.
+                                </span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="desktop-nav__submenu-item">
+                        <a href="/nestjs/bases-de-datos">
+                            <div>
+                                <img 
+                                    src="{{asset "images/nestjs-48x48-small.webp"}}"
+                                    alt="icono nestjs"
+                                >
+                            </div>
+                            <div>
+                                <span>
+                                    Bases de Datos
+                                </span>
+                                <span>
+                                    Integración de NestJS con las bases de datos mas utilizadas en la industria.
+                                </span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="desktop-nav__submenu-item">
+                        <a href="/nestjs/microservicios">
+                            <div>
+                                <img 
+                                    src="{{asset "images/nestjs-48x48-small.webp"}}"
+                                    alt="icono nestjs"
+                                >
+                            </div>
+                            <div>
+                                <span>
+                                    Microservicios
+                                </span>
+                                <span>
+                                    Arquitecturas de microservicios oriendas a mensajes, eventos y sus protocolos.
+                                </span>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="desktop-nav__submenu-item">
+                        <a href="/nestjs/arquitectura-hexagonal">
+                            <div>
+                                <img 
+                                    src="{{asset "images/nestjs-48x48-small.webp"}}"
+                                    alt="icono nestjs"
+                                >
+                            </div>
+                            <div>
+                                <span>
+                                    Arquitectura Hexagonal
+                                </span>
+                                <span>
+                                    Aplicaciones escalables, mantenibles, porque usarlo y casos de uso.
+                                </span>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </li>
+</ul>
+
+<div class="desktop-nav__social-networks">
+    <a 
+        href="https://www.linkedin.com/in/alex-daniel-meza-lopez/"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="group"
+    >
+        {{> "icons/LinkedinSvg/LinkedinSvg"}}
+        <span class="social-network__tooltip">
+            Linkedin
+        </span>
+    </a>
+
+    <a 
+        href="https://github.com/TrulyDigital"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="group"
+    >
+        {{> "icons/GithubSvg/GithubSvg"}}
+        <span class="social-network__tooltip">
+            Github
+        </span>
+    </a>
+
+    <a 
+        href="https://x.com/soyalexdaniel"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="group"
+    >
+        {{> "icons/TwitterSvg/TwitterSvg"}}
+        <span class="social-network__tooltip">
+            Twitter
+        </span>
+    </a>
+
+    <a 
+        href="/portafolio"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="group"
+    >
+        {{> "icons/ComputerSvg/ComputerSvg"}}
+        <span class="social-network__tooltip">
+            Portafolio
+        </span>
+    </a>
+
+    <button>
+        {{> "icons/SearchSvg/SearchSvg"}}
+    </button>
+</div>

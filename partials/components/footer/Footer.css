@@ -1,0 +1,146 @@
+.footer__icon{
+    @apply
+    flex
+    w-full
+    pt-7
+}
+
+.footer__icon > a {
+    @apply
+    flex
+    flex-row
+    items-center
+    font-semibold
+    text-neutral-400
+}
+
+.footer__nav{
+    @apply
+    flex
+    flex-col
+    w-full
+    gap-10
+    lg:flex-row
+}
+
+.footer__information{
+    /*font-family: 'JetBrains Mono';*/
+    @apply
+    flex
+    flex-row
+    w-full
+    gap-10
+    font-mono
+    lg:gap-16
+}
+
+.footer__about{
+    @apply
+    flex
+    flex-col
+    gap-1
+    text-neutral-300
+}
+
+.footer__about > a{
+    @apply
+    underline
+    underline-offset-2
+    transition-all
+    duration-150
+    ease-in-out
+    hover:text-purple-400
+}
+
+.footer__privacy{
+    @apply
+    flex
+    flex-col
+    gap-1
+    text-neutral-300
+}
+
+.footer__privacy > a{
+    @apply
+    underline
+    underline-offset-2
+    transition-all
+    duration-150
+    ease-in-out
+    hover:text-purple-400
+}
+
+.footer__cta{
+    @apply
+    flex
+    flex-col
+    items-end
+    text-neutral-500
+}
+
+.footer__cta > p{
+    @apply
+    text-6xl
+    font-bold
+    bg-gradient-to-t
+    bg-clip-text
+    text-transparent
+    from-purple-400
+    to-white
+    lg:text-7xl
+}
+
+.footer__social-networks{
+    @apply
+    flex
+    flex-col
+    w-full
+    gap-4
+    pt-16
+}
+
+.footer__social-networks-icons{
+    @apply
+    flex
+    flex-row
+    gap-4
+    justify-center
+    m-auto
+    border-b
+    border-b-neutral-500
+    pb-3
+    w-fit
+}
+
+.footer__social-networks-icons > a{
+    @apply
+    transition-all
+    duration-150
+    ease-in
+    hover:-translate-y-1
+}
+
+.footer__author{
+    @apply
+    flex
+    flex-col
+    justify-center
+    items-center
+    text-neutral-100
+    pt-5
+}
+
+.footer__author > p:nth-child(1){
+    @apply
+    flex
+    flex-col
+    justify-center
+    items-center
+}
+
+.footer__author > p:nth-child(1) > span:nth-child(2){
+    @apply
+    underline
+    underline-offset-2
+    text-purple-400
+}

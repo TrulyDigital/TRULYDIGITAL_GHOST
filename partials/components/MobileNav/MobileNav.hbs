@@ -1,0 +1,100 @@
+<ul class="mobile-nav__menu">
+    <li>
+        <button 
+            class="mobile-nav__button-menu"
+            id="idMobileNestJs"
+        >
+            <span>NestJS</span>
+            {{> "icons/DownSvg/DownSvg"}}
+        </button>
+        <ul 
+            class="
+                mobile-nav__sub-menus
+                mobile-nav__sub-menus--close
+            "
+            id="idMobileSubMenuNestJs"
+        >
+            <li class="mobile-nav__sub-menu-item">
+                <a href="/nestjs/tutoriales">
+                    <div>
+                        <img 
+                            src="{{asset "images/nestjs-48x48-small.webp"}}" 
+                            alt="icono nestjs"
+                        >
+                    </div>
+                    <div>
+                        <span>
+                            Conceptos Básicos
+                        </span>
+                        <span>
+                            Introducción al framework NestJS y sus fundamentos.
+                        </span>
+                    </div>
+                </a>
+            </li>
+            <li class="mobile-nav__sub-menu-item">
+                <a href="/nestjs/bases-de-datos">
+                    <div>
+                        <img 
+                            src="{{asset "images/nestjs-48x48-small.webp"}}" 
+                            alt="icono nestjs"
+                        >
+                    </div>
+                    <div>
+                        <span>
+                            Bases de Datos
+                        </span>
+                        <span>
+                            Integración de NestJS con las bases de datos mas utilizadas en la industria.
+                        </span>
+                    </div>
+                </a>
+            </li>
+            <li class="mobile-nav__sub-menu-item">
+                <a href="/nestjs/microservicios">
+                    <div>
+                        <img 
+                            src="{{asset "images/nestjs-48x48-small.webp"}}" 
+                            alt="icono nestjs"
+                        >
+                    </div>
+                    <div>
+                        <span>
+                            Microservicios
+                        </span>
+                        <span>
+                            Arquitecturas de microservicios oriendas a mensajes, eventos y sus protocolos.
+                        </span>
+                    </div>
+                </a>
+            </li>
+            <li class="mobile-nav__sub-menu-item">
+                <a href="/nestjs/arquitectura-hexagonals">
+                    <div>
+                        <img 
+                            src="{{asset "images/nestjs-48x48-small.webp"}}"
+                            alt="icono nestjs"
+                        >
+                    </div>
+                    <div>
+                        <span>
+                            Arquitectura Hexagonal
+                        </span>
+                        <span>
+                            Aplicaciones escalables, mantenibles, porque usarlo y casos de uso.
+                        </span>
+                    </div>
+                </a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a 
+            href="/portafolio"
+            class="mobile-nav__portfolio"
+        >
+            <span>Portafolio</span>
+            {{> "icons/ArrowToLineSvg/ArrowToLineSvg"}}
+        </a>
+    </li>
+</ul>

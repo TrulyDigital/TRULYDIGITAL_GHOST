@@ -16,13 +16,31 @@
     {{ghost_head}}
 
 </head>
-<body>
+<body class="layout">
 
-    {{> "components/header/header"}}
+    <header class="layout__header">
+        <nav class="layout__desktop-nav">
+            {{> "components/DesktopNav/DesktopNav"}}
+        </nav>
+    </header>
+
+    <nav 
+        class="
+            layout__mobile-nav 
+            layout__mobile-nav--hidden
+        "
+        id="idMobileNav"
+    >
+        {{> "components/MobileNav/MobileNav"}}
+    </nav>
+
+    <nav class="layout__mobile-subnav"></nav>
 
     {{{body}}}
 
-    {{> "components/footer/footer"}}
+    <footer class="layout__footer">
+        {{> "components/Footer/Footer"}}
+    </footer>
 
     {{!-- Ghost SEO configurations and default scripts --}}
     {{ghost_foot}}

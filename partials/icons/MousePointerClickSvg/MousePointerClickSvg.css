@@ -1,0 +1,5 @@
+.svg__mouse-pointer-click{
+    @apply
+    fill-white
+    stroke-white
+}

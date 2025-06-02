@@ -1,0 +1,37 @@
+/* sm   >= 640px    */
+/* md   >= 768px    */
+/* lg   >= 1024px   */
+/* xl   >= 1280px   */
+/* 2xl  >= 1536px   */
+
+/* partials/icons */
+@import url('../partials/icons/ArrowToLineSvg/ArrowToLineSvg.css');
+@import url('../partials/icons/BurguerPrimarySvg/BurguerPrimarySvg.css');
+@import url('../partials/icons/BurguerSecondarySvg/BurguerSecondarySvg.css');
+@import url('../partials/icons/ComputerSvg/ComputerSvg.css');
+@import url('../partials/icons/DownSvg/DownSvg.css');
+@import url('../partials/icons/MenuGridSvg/MenuGridSvg.css');
+@import url('../partials/icons/MousePointerClickSvg/MousePointerClickSvg.css');
+@import url('../partials/icons/RightSmallSvg/RightSmallSvg.css');
+@import url('../partials/icons/GithubSvg/GithubSvg.css');
+@import url('../partials/icons/LinkedinSvg/LinkedinSvg.css');
+@import url('../partials/icons/LogoSvg/LogoSvg.css');
+@import url('../partials/icons/SearchSvg/SearchSvg.css');
+@import url('../partials/icons/TwitterSvg/TwitterSvg.css');
+
+/* templates styles */
+@import url('./default.css');
+@import url('./home.css');
+@import url('./index.css');
+@import url('./page.css');
+@import url('./post.css');
+
+/* components styles */
+@import url('../partials/components/DesktopNav/DesktopNav.css');
+@import url('../partials/components/MobileNav/MobileNav.css');
+@import url('../partials/components/Footer/Footer.css');
+
+/* tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

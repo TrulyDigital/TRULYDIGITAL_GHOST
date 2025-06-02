@@ -1,37 +1,47 @@
 {{!< default}}
 
 <main class="home">
-    <h1 class="home__title">
-        <div>
-            <span>Desarrollo&nbsp;</span>
-            <span>Backend y</span>
-        </div>
-        <div>
-            <span>Arquitectura de&nbsp;</span>
-            <span>Software</span>
-        </div>
-    </h1>
-
-    <section class="home__hero">
-        <img src="{{asset "images/hero-large-1920x1080.webp"}}" alt="">
-    </section>
-
-    <section class="home__description">
-        <p>
-            Este curso de programación desde cero está diseñado especialmente para aprender a programar paso a paso <span>APIs Rest</span>, sin necesidad de experiencia previa.
+    <section class="home__trulydigital">
+        <p class="home__intro">
+            Truly Digital
         </p>
-        <p>
-            Practicaras en proyectos reales usando herramientas modernas como <span>NestJS</span>, uno de los frameworks más potentes y demandados del mercado.
+        <h1 class="home__title">
+            ¡Descubre el poder de NestJS para construir APIs escalables y eficientes!
+        </h1>
+        <p class="home__introduction">
+            NestJS emerge como el framework de Node.js preferido por desarrolladores que buscan estructura modular, TypeScript nativo y arquitectura basada en microservicios.
         </p>
-        <!--
-        <p>
-            Si buscas un curso de programación completo para aprender a programar microservicios, ¡estás en el lugar indicado!
-        </p>
-        -->
-        <p>
-            <a href="" class="home__description-cta">
-                Inicio del curso 
+        <div class="home__cta">
+            <a 
+                class="home__init-course"
+                href="/nestjs/tutoriales"
+            >
+                Empezar
             </a>
-        </p>
+
+            <a 
+                class="home__github"
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://github.com/TrulyDigital"
+            >
+                {{> "icons/GithubSvg/GithubSvg"}}
+                <span>Github</span>
+            </a>
+
+            <a 
+                class="home__portfolio"
+                target="_blank"
+                rel="noopener noreferrer"
+                href="/portafolio"
+            >
+                {{> "icons/ComputerSvg/ComputerSvg"}}
+                <span>Portafolio</span>
+            </a>
+        </div>
     </section>
 </main>
+
+<script type="module">
+    document.getElementById('idMenuGridButton').disabled = true;
+</script>

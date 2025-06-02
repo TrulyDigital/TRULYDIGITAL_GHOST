@@ -1,4 +1,4 @@
 # TrulyDigital.tech 
-# Arquitectura SEO Transaccional.
+# Ghost Template
 
 **Objetivo General**

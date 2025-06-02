@@ -1,0 +1,130 @@
+.home{
+    background-image: linear-gradient(
+        to bottom, 
+        #171717, 
+        #141414, 
+        #111111, 
+        #0e0e0e, 
+        #0a0a0a
+    );
+    @apply
+    flex
+    flex-col
+    w-full
+    items-center
+    pl-3
+    pr-3
+    lg:h-[calc(100vh-64px)]
+}
+
+.home__trulydigital{
+    @apply
+    flex
+    flex-col
+    items-center
+    gap-5
+    w-full
+    mt-7
+    lg:gap-7
+    lg:mt-16
+}
+
+.home__intro{
+    @apply
+    flex
+    justify-center
+    text-7xl
+    font-bold
+    bg-gradient-to-t
+    from-gray-500
+    to-white
+    bg-clip-text
+    text-transparent
+    pb-3
+}
+
+.home__title{
+    @apply
+    flex
+    justify-center
+    text-neutral-200
+    text-xl
+    m-auto
+    lg:w-[600px]
+    lg:text-center
+    lg:text-2xl
+}
+
+.home__introduction{
+    @apply
+    flex
+    justify-center
+    text-neutral-500
+    text-xl
+    m-auto
+    lg:w-[900px]
+    lg:text-center
+    lg:text-2xl
+}
+
+.home__cta{
+    @apply
+    flex
+    flex-row
+    w-full
+    justify-between
+    m-auto
+    mt-4
+    mb-4
+    lg:w-96
+    lg:mt-3
+}
+
+.home__init-course{
+    background-image: linear-gradient(to right bottom, #3c0366, #3c0366, #58005e, #6c0054);
+    @apply
+    p-2
+    rounded
+    text-white
+    border
+    border-purple-500
+    transition-all
+    duration-150
+    ease-in
+    hover:border-white
+    hover:-translate-y-1
+}
+
+.home__github{
+    @apply
+    flex
+    flex-row
+    gap-3
+    text-neutral-400
+    border
+    rounded
+    border-neutral-400
+    p-2
+    transition-all
+    duration-150
+    ease-in
+    hover:border-purple-600
+    hover:-translate-y-1
+}
+
+.home__portfolio{
+    @apply
+    flex
+    flex-row
+    gap-3
+    text-neutral-400
+    border
+    rounded
+    border-neutral-400
+    p-2
+    transition-all
+    duration-150
+    ease-in
+    hover:border-purple-600
+    hover:-translate-y-1
+}

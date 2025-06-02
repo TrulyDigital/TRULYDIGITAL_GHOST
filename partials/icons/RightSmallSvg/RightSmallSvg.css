@@ -1,0 +1,5 @@
+.svg__right{
+    @apply
+    fill-white
+    stroke-white
+}

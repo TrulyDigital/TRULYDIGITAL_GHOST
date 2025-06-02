@@ -1,0 +1,100 @@
+.mobile-nav__menu {
+    @apply 
+    flex
+    flex-col
+    text-white
+    pl-2
+    pr-3
+    gap-3
+}
+
+.mobile-nav__button-menu {
+    @apply
+    flex
+    flex-row
+    w-full
+    justify-between
+    items-center
+    border-b
+    border-b-violet-700
+    pt-3
+}
+
+.mobile-nav__button-menu > svg{
+    @apply
+    w-4
+}
+
+.mobile-nav__sub-menus{
+    @apply
+    transition-all
+    duration-300
+    ease-in-out
+    flex-col
+    gap-3
+    mt-3
+}
+
+.mobile-nav__sub-menus--open{
+    @apply
+    flex
+}
+
+.mobile-nav__sub-menus--close{
+    @apply
+    hidden
+}
+
+.mobile-nav__sub-menu-item{
+    @apply
+    flex
+    flex-row
+    bg-neutral-700
+    rounded-md
+    pt-2
+    pb-2
+}
+
+.mobile-nav__sub-menu-item > a{
+    @apply
+    flex
+    flex-row
+}
+
+.mobile-nav__sub-menu-item > a > div:nth-child(1) {
+    @apply
+    flex
+    justify-center
+    items-center
+    p-1
+}
+
+.mobile-nav__sub-menu-item > a > div:nth-child(1) > img{
+    @apply
+    w-7
+    h-auto
+}
+
+.mobile-nav__sub-menu-item > a > div:nth-child(2){
+    @apply
+    flex
+    flex-col
+}
+
+.mobile-nav__sub-menu-item > a > div:nth-child(2) > span:nth-child(2){
+    @apply
+    text-neutral-400
+}
+
+.mobile-nav__portfolio{
+    @apply
+    flex
+    flex-row
+    w-full
+    justify-between
+    items-center
+    border-b
+    border-b-violet-700
+    pt-3
+    pb-2
+}

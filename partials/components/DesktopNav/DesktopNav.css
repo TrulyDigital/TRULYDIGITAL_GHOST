@@ -1,0 +1,270 @@
+/*
+ *
+ * SECTION
+ *
+ * Mobile Buttons
+ *
+ */
+.desktop-nav__mobile-buttons{
+    @apply
+    flex
+    flex-row
+    w-full
+    justify-between
+    items-center
+    lg:w-56
+    lg:justify-start
+    lg:pr-3
+}
+/*
+.logo{
+    @apply
+    flex
+    justify-center
+    items-center
+    text-center
+    bg-purple-700
+    text-white
+    pt-1
+    pb-1
+    pl-5
+    pr-5
+    h-fit
+    rounded-md
+    lg:w-full
+}
+    */
+.logo{
+    @apply
+    flex
+    flex-row
+    items-center
+    text-neutral-200
+    font-semibold
+    border-r
+    border-r-neutral-500
+    pr-3
+}
+
+.menu-grid__button{
+    @apply
+    lg:hidden
+}
+
+.search-mobile__button{
+    @apply
+    sm:hidden
+}
+
+.burguer-primary__button{
+    @apply
+    lg:hidden
+}
+
+.desktop-nav__menu{
+    font-family: 'Inter';
+    @apply
+    hidden
+    lg:flex
+    lg:flex-row
+    lg:items-center
+    lg:justify-start
+    lg:w-full
+    lg:text-white
+}
+
+.desktop-nav__menu > li{
+    @apply
+    flex
+    justify-center
+    items-center
+    mr-4
+}
+
+.desktop-nav__menu > li > a{
+    @apply
+    flex
+    justify-center
+    items-center
+}
+
+/*
+ *
+ * SECTION
+ *
+ * Menu
+ *
+ */
+.desktop-nav__menu{
+    @apply
+    hidden
+    lg:flex
+    lg:flex-row
+    lg:items-center
+}
+
+.desktop-nav__menu-and-submenus{
+    @apply
+    flex
+    flex-col
+    relative
+}
+
+.desktop-nav__menu-and-submenus > div:nth-child(1){
+    @apply
+    flex
+    flex-row
+    items-center
+    gap-2
+    text-neutral-200
+    text-sm
+    font-semibold
+    tracking-wider
+}
+
+.desktop-nav__menu-and-submenus > div:nth-child(1) > svg{
+    @apply
+    w-[10px]
+}
+
+.desktop-nav__menu-and-submenus > div:nth-child(2){
+    @apply
+    flex
+    flex-col
+}
+
+.desktop-nav__submenus{
+    @apply
+    absolute
+    top-5
+    pt-[38px]
+    transition-all
+    duration-300
+    ease-in-out
+    invisible
+    opacity-0
+    group-hover:visible
+    group-hover:opacity-100
+}
+
+.desktop-nav__submenus > ul{
+    @apply
+    flex
+    flex-col
+    gap-4
+    bg-neutral-800
+    w-96
+    rounded-md
+    pt-3
+    pr-3
+    pl-3
+    pb-4
+    shadow-md
+}
+
+.desktop-nav__submenu-item{
+    @apply
+    flex
+    flex-row
+    transition
+    duration-200
+    ease-in-out
+    p-1
+    hover:bg-neutral-700
+    hover:rounded-lg
+}
+
+.desktop-nav__submenu-item > a {
+    @apply
+    flex
+    flex-row
+}
+
+.desktop-nav__submenu-item > a > div:nth-child(1){
+    @apply
+    flex
+    flex-row
+    items-center
+    justify-center
+    w-8
+    p-1
+}
+
+.desktop-nav__submenu-item > a > div:nth-child(1) > img{
+    @apply
+    flex
+    flex-row
+    items-center
+    justify-center
+    w-full
+    h-auto
+}
+
+.desktop-nav__submenu-item > a > div:nth-child(2){
+    @apply
+    flex
+    flex-col
+    w-full
+    pl-1
+}
+
+.desktop-nav__submenu-item > a > div:nth-child(2) > span:nth-child(2){
+    @apply
+    text-sm
+    text-neutral-400
+}
+
+
+/*
+ *
+ * SECTION
+ *
+ * Social Networks
+ *
+ */
+.desktop-nav__social-networks{
+    @apply
+    hidden
+    lg:flex
+    lg:flex-row
+    lg:items-center
+}
+
+.desktop-nav__social-networks > a{
+    @apply
+    relative
+    flex
+    flex-col
+    justify-center
+    items-center
+    ml-4
+}
+
+.social-network__tooltip{
+    @apply
+    absolute
+    top-12
+    text-sm
+    bg-purple-700
+    text-white
+    p-1
+    rounded-sm
+    opacity-0
+    invisible
+    transition-all
+    duration-150
+    ease-in-out
+    group-hover:visible
+    group-hover:opacity-100
+}
+
+.desktop-nav__social-networks > button{
+    @apply
+    flex
+    justify-center
+    items-center
+    ml-4
+    border-l
+    pl-4
+}
+

@@ -1,0 +1,17 @@
+.svg__down{
+    @apply
+    stroke-neutral-200
+    transition-transform
+    duration-300
+    group-hover:-rotate-90
+}
+
+.svg__down-rotate-open{
+    @apply
+    -rotate-90
+}
+
+.svg__down-rotate-close{
+    @apply
+    rotate-90
+}
