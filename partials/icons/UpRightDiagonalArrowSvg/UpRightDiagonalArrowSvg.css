@@ -1,0 +1,5 @@
+.svg__up-right-diagonal-arrow{
+    @apply
+    fill-none
+    stroke-white
+}

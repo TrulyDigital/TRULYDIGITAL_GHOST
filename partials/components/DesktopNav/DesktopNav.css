@@ -51,6 +51,11 @@
     lg:hidden
 }
 
+.menu-grid__button--disabled svg{
+    @apply
+    fill-neutral-800
+}
+
 .search-mobile__button{
     @apply
     sm:hidden

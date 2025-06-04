@@ -19,14 +19,20 @@
     "scripts": {
         "dev": "vite build --watch",
         "build": "tsc && vite build",
-        "preview": "vite preview"
+        "preview": "vite preview",
+        "zip": "node scripts/package-theme.js",
+        "bundle": "npm run build && npm run zip"
     },
     "devDependencies": {
         "autoprefixer": "^10.4.21",
+        "cross-env": "^7.0.3",
+        "fs-extra": "^11.3.0",
         "postcss": "^8.5.3",
+        "rimraf": "^6.0.1",
         "tailwindcss": "^3.4.3",
         "typescript": "~5.7.2",
-        "vite": "^6.2.0"
+        "vite": "^6.2.0",
+        "zip-a-folder": "^3.1.9"
     },
     "config": {
         "posts_per_page": 12,

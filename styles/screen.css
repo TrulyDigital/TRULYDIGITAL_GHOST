@@ -18,8 +18,10 @@
 @import url('../partials/icons/LogoSvg/LogoSvg.css');
 @import url('../partials/icons/SearchSvg/SearchSvg.css');
 @import url('../partials/icons/TwitterSvg/TwitterSvg.css');
+@import url('../partials/icons/UpRightDiagonalArrowSvg/UpRightDiagonalArrowSvg.css');
 
 /* templates styles */
+@import url('./custom-under-construction.css');
 @import url('./default.css');
 @import url('./home.css');
 @import url('./index.css');

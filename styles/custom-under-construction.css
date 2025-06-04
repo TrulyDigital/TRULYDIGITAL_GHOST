@@ -1,4 +1,4 @@
-.home{
+.under-construction{
     background-image: linear-gradient(
         to bottom, 
         #171717, 
@@ -17,7 +17,7 @@
     lg:h-[calc(100vh-64px)]
 }
 
-.home__trulydigital{
+.under-construction__trulydigital{
     @apply
     flex
     flex-col
@@ -28,11 +28,11 @@
     lg:mt-16
 }
 
-.home__intro{
+.under-construction__intro{
     @apply
     flex
     flex-col
-    text-7xl
+    text-5xl
     font-bold
     bg-gradient-to-t
     from-gray-500
@@ -42,15 +42,16 @@
     pb-3
     lg:flex-row
     lg:justify-center
+    lg:text-7xl
 }
 
-.home__intro > span:nth-child(2){
+.under-construction__intro > span:nth-child(2){
     @apply
     hidden
     lg:flex
 }
 
-.home__title{
+.under-construction__title{
     @apply
     flex
     justify-center
@@ -62,7 +63,7 @@
     lg:text-2xl
 }
 
-.home__introduction{
+.under-construction__introduction{
     @apply
     flex
     justify-center
@@ -74,7 +75,7 @@
     lg:text-2xl
 }
 
-.home__cta{
+.under-construction__cta{
     @apply
     flex
     flex-row
@@ -87,7 +88,7 @@
     lg:mt-3
 }
 
-.home__init-course{
+.under-construction__init-course{
     background-image: linear-gradient(to right bottom, #3c0366, #3c0366, #58005e, #6c0054);
     @apply
     flex
@@ -106,7 +107,7 @@
     hover:-translate-y-1
 }
 
-.home__github{
+.under-construction__github{
     @apply
     flex
     flex-row
@@ -123,7 +124,7 @@
     hover:-translate-y-1
 }
 
-.home__portfolio{
+.under-construction__portfolio{
     @apply
     flex
     flex-row
